@@ -1,0 +1,495 @@
+{
+    "semester_1": {
+        "Modelling of Physical Systems": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Statistics for Intelligent Systems": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Model Checking": {
+            "ects": "3.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Philosophy and New Media": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Zaj\u0119cia seminaryjne": " 30"
+        },
+        "Global Society & International Institutions": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 15",
+            "Zaj\u0119cia seminaryjne": " 15"
+        },
+        "Formal Methods": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Artificial Intelligence": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Development Workshop 1": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Computational Intelligence": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Wprowadzenie do grafiki komputerowej": {
+            "ects": "3.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28"
+        },
+        "Architektura i programowanie GPU": {
+            "ects": "5.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 21",
+            "\u0106wiczenia laboratoryjne": " 21",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Artystyczne aspekty grafiki komputerowej": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Wektorowa i bitmapowa grafika ilustracyjna": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 28",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Praktyczne wykorzystanie grafiki komputerowej": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14"
+        },
+        "Programowanie 3D w OpenGL i DirectX": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 28",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Eksploracja danych": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Estymacja oprogramowania": {
+            "ects": "3.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Przedsi\u0119wzi\u0119cie informatyczne": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Programowanie ekstremalne": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Modelowanie biznesowe": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Studio projektowe 1": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia projektowe": " 42"
+        },
+        "Metody formalne w in\u017cynierii oprogramowania": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 28"
+        }
+    },
+    "semester_2": {
+        "Advanced Data Mining": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Advanced Python Programming": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Agent Systems": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Evolutionary Algorithms": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Development Workshop 2": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Advanced Algorithms and Data Structures": {
+            "ects": "3.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Decision Support Systems": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 20",
+            "\u0106wiczenia laboratoryjne": " 20"
+        },
+        "Advanced Computational Intelligence": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Introduction to category theory": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Advanced Database Systems": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Linked Open Data and Knowledge Graphs": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Process Mining": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Programming Language Theory": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Advanced Machine Learning": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 20",
+            "\u0106wiczenia laboratoryjne": " 20"
+        },
+        "Specjalistyczne \u017ar\u00f3d\u0142a informacji": {
+            "ects": "1.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Konwersatorium": " 3"
+        },
+        "Matematyczne podstawy grafiki komputerowej": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28"
+        },
+        "J\u0119zyki i metody programowania grafiki": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Multimedialne i responsywne strony WWW": {
+            "ects": "4.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Projektowanie UX aplikacji mobilnych i internetowych": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 21"
+        },
+        "Wprowadzenie do CAD": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Programowanie gier komputerowych": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 28",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "J\u0119zyk hiszpa\u0144ski B2+ - obowi\u0105zkowy kurs j\u0119zyka specjalistycznego na studiach II stopnia - j\u0119zyk hiszpa\u0144ski w pracy i biznesie": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Lektorat": " 30"
+        },
+        "J\u0119zyk angielski B2+ - obowi\u0105zkowy kurs j\u0119zyka specjalistycznego na studiach II stopnia dla student\u00f3w WEAIiIB-IT": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Lektorat": " 30"
+        },
+        "J\u0119zyk niemiecki B2+ - obowi\u0105zkowy kurs j\u0119zyka specjalistycznego na studiach II stopnia dla student\u00f3w Wydzia\u0142u Elektrotechniki, Automatyki, Informatyki i In\u017cynierii Biomedycznej oraz Wydzia\u0142u Informatyki, Elektroniki i Telekomunikacji": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Lektorat": " 30"
+        },
+        "J\u0119zyk rosyjski B2+ - obowi\u0105zkowy kurs j\u0119zyka specjalistycznego na studiach II stopnia dla student\u00f3w wszystkich wydzia\u0142\u00f3w - j\u0119zyk rosyjski w pracy i biznesie": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Lektorat": " 30"
+        },
+        "J\u0119zyk francuski B2+ - obowi\u0105zkowy kurs j\u0119zyka specjalistycznego na studiach II stopnia dla student\u00f3w wszystkich wydzia\u0142\u00f3w - j\u0119zyk francuski w pracy i biznesie": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "W",
+            "Lektorat": " 30"
+        },
+        "Testowanie i walidacja oprogramowania": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Zaawansowane technologie bazodanowe": {
+            "ects": "4.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Obliczenia rozpowszechnione": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Zaawansowane programowanie system\u00f3w mobilnych": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Studio projektowe 2": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia projektowe": " 28"
+        },
+        "Bezpiecze\u0144stwo system\u00f3w informatycznych": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        }
+    },
+    "semester_3": {
+        "Diploma Thesis": {
+            "ects": "20.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Praca dyplomowa": " 0"
+        },
+        "Diploma Seminar": {
+            "ects": "1.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Cybersecurity": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Advanced Methods in Image Understanding": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Combinatorics in Computer Science": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Deep Neural Networks": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 10",
+            "\u0106wiczenia laboratoryjne": " 28"
+        },
+        "Programming of PLC-s": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "W",
+            "Wyk\u0142ad": " 28",
+            "\u0106wiczenia laboratoryjne": " 14"
+        },
+        "Praca dyplomowa": {
+            "ects": "20.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Praca dyplomowa": " 0"
+        },
+        "Animacja Komputerowa 3D": {
+            "ects": "3.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "\u0106wiczenia laboratoryjne": " 14",
+            "\u0106wiczenia projektowe": " 42"
+        },
+        "Symulacja inteligentnych zachowa\u0144 t\u0142umu oraz roju obiekt\u00f3w": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14"
+        },
+        "Animacja dynamiki w zjawiskach fizycznych": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Ko\u0142o naukowe Grafiki Komputerowej": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Zaj\u0119cia seminaryjne": " 24"
+        },
+        "Seminarium dyplomowe": {
+            "ects": "1.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Zaj\u0119cia seminaryjne": " 14"
+        },
+        "Ochrona systemo\u0301w informatycznych": {
+            "ects": "2.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Przetwarzanie w chmurze": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Certyfikaty in\u017cynierii oprogramowania": {
+            "ects": "2.0",
+            "passing_method": "Zaliczenie",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia projektowe": " 14"
+        },
+        "Hurtownie danych": {
+            "ects": "3.0",
+            "passing_method": "Egzamin",
+            "mandatory": "O",
+            "Wyk\u0142ad": " 14",
+            "\u0106wiczenia laboratoryjne": " 28"
+        }
+    }
+}

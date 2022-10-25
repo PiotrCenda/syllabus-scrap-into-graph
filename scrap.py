@@ -65,3 +65,7 @@ if __name__ == "__main__":
     isi_bsc_url = r"https://sylabusy.agh.edu.pl/pl/1/2/18/1/4/16/140"
     data = fetch_link(isi_bsc_url)
     save_json(data=data, filename="isi_bcs.json")
+    
+    isi_ms_url = r"https://sylabusy.agh.edu.pl/pl/1/2/18/1/5/16/140"
+    data = fetch_link(isi_ms_url)
+    save_json(data=data, filename="isi_ms.json")
