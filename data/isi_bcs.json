@@ -1,750 +1,1626 @@
 {
     "semester_1": {
         "Algebra liniowa i geometria analityczna": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia audytoryjne": " 28"
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Auditorium classes": " 28",
+            "subject_coordinator": [
+                "Wojciech Mitkowski"
+            ],
+            "lecturers": [
+                "Wojciech Mitkowski",
+                "Waldemar Bauer",
+                "Przemys\u0142aw Pukocz",
+                "Maciej Szymkat",
+                "Marek D\u0142ugosz"
+            ],
+            "class_code": "EISIS.Ii1P.23b7b890e6b1e304960208209476b6a1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Analiza matematyczna 1": {
-            "ects": "7.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 42",
-            "\u0106wiczenia audytoryjne": " 42"
+        "Mathematical Analysis 1": {
+            "ects_points": "7.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 42",
+            "Auditorium classes": " 42",
+            "subject_coordinator": [
+                "Adam Cmiel"
+            ],
+            "lecturers": [
+                "Adam Cmiel"
+            ],
+            "class_code": "EISIS.Ii1P.8b9f9e21baf843aa16d7013d3d532b0f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Wst\u0119p do informatyki": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia audytoryjne": " 7"
+        "Introduction to Computer Science": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Auditorium classes": " 7",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Dariusz Pa\u0142ka",
+                "Filip Kami\u0144ski"
+            ],
+            "class_code": "EISIS.Ii1K.0dc4696e1d7fbea8f3707d463a1b1389.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Logika dla informatyk\u00f3w": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Logic in Computer Science": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Antoni Lig\u0119za",
+                "Katarzyna Grobler-D\u0119bska",
+                "Krystian Jobczyk"
+            ],
+            "lecturers": [
+                "Antoni Lig\u0119za",
+                "Katarzyna Grobler-D\u0119bska",
+                "Krystian Jobczyk"
+            ],
+            "class_code": "EISIS.Ii1K.5dfa09811be13.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Podstawy programowania 1": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 42"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 42",
+            "subject_coordinator": [
+                "Dariusz Jamr\u00f3z"
+            ],
+            "lecturers": [
+                "Dariusz Jamr\u00f3z",
+                "Janusz Miller",
+                "Jacek Piwowarczyk",
+                "Krzysztof Kluza"
+            ],
+            "class_code": "EISIS.Ii1K.5dfa098144e2f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Wste\u0328p do systemo\u0301w uniksowych": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Igor Wojnicki"
+            ],
+            "lecturers": [
+                "Igor Wojnicki"
+            ],
+            "class_code": "EISIS.Ii1K.735dccf845924bf8b604ca05b3fed4d0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Architektury komputer\u00f3w": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28"
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "subject_coordinator": [
+                "Dariusz Jamr\u00f3z"
+            ],
+            "lecturers": [
+                "Dariusz Jamr\u00f3z"
+            ],
+            "class_code": "EISIS.Ii1K.86b8adae74f5aa66ee6b0a3831667713.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Narz\u0119dzia informatyczne": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Andrei Karatkevich"
+            ],
+            "lecturers": [
+                "Andrei Karatkevich",
+                "Pawe\u0142 Jemio\u0142o"
+            ],
+            "class_code": "EISIS.Ii1K.5dfa0981867be.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         }
     },
     "semester_2": {
-        "Fizyka 1": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 30",
-            "\u0106wiczenia audytoryjne": " 15"
+        "Physics 1": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 30",
+            "Auditorium classes": " 15",
+            "subject_coordinator": [
+                "Magdalena Szczerbowska-Boruchowska"
+            ],
+            "lecturers": [
+                "Magdalena Szczerbowska-Boruchowska"
+            ],
+            "class_code": "EISIS.Ii2P.6b2156684a724e1f4e161620f5f9a455.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Rachunek prawdopodobien\u0301stwa i statystyka": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Marek Adrian"
+            ],
+            "lecturers": [
+                "Marek Adrian"
+            ],
+            "class_code": "EISIS.Ii2P.a6c721d0591678826d463bc3b7d3a1d9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Matematyka dyskretna": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia audytoryjne": " 14"
+        "Discrete Mathematics": {
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 14",
+            "Auditorium classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Bielecki"
+            ],
+            "lecturers": [
+                "Andrzej Bielecki"
+            ],
+            "class_code": "EISIS.Ii2P.e259c5b2344d0df764021f794fe479ed.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Teoria graf\u00f3w": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia audytoryjne": " 14"
+        "Graph Theory": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Auditorium classes": " 14",
+            "subject_coordinator": [
+                "Adam S\u0119dziwy"
+            ],
+            "lecturers": [
+                "Adam S\u0119dziwy"
+            ],
+            "class_code": "EISIS.Ii2P.79e9475423fa6c6bb2b2dd8b802185bc.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Podstawy programowania 2": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Piotr Szwed"
+            ],
+            "lecturers": [
+                "Piotr Szwed"
+            ],
+            "class_code": "EISIS.Ii2K.5dfa09823ae63.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Algorytmy i struktury danych": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia audytoryjne": " 28"
+        "Algorithms and data structures": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Auditorium classes": " 28",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Weronika T. Adrian",
+                "Maciej Gierdziewicz",
+                "Marek Adrian"
+            ],
+            "class_code": "EISIS.Ii2K.3e323d05e6dd0fda0c4ae3d4e2e56b1c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Podstawy grafiki komputerowej": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Fundamentals of Computer Graphics": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "J\u0119drzej Byrski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski"
+            ],
+            "class_code": "EISIS.Ii2K.d87e496897fbffb8d5d5c65b9883aceb.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Wprowadzenie do system\u00f3w inteligentnych": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 18"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 18",
+            "subject_coordinator": [
+                "Weronika T. Adrian"
+            ],
+            "lecturers": [
+                "Weronika T. Adrian"
+            ],
+            "class_code": "EISIS.Ii2K.5dfa09827e76f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Badania operacyjne": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Operational research": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Weronika T. Adrian"
+            ],
+            "lecturers": [
+                "Weronika T. Adrian"
+            ],
+            "class_code": "EISIS.Ii2K.8f3897642c08a217b5bdba2a4135f1cd.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "J\u0119zyk francuski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 1/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 30"
+        "French B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 1/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 30",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii2O.e553773bdd5bdb73e59798df5bf39847.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk angielski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 1/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 30"
+        "English B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 1/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 30",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii2O.df2639cc44c5e396cf0074ea122cab71.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk hiszpa\u0144ski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 1/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 30"
+        "Spanish B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 1/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 30",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii2O.e2e9f855d3be1c6e44f1609c9b3733bf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk niemiecki B-2 - kurs obowi\u0105zkowy 135 godzin - semestr 1/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 30"
+        "German B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 1/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 30",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii2O.375d0ed08478ee775e900113312791c3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk rosyjski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 1/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 30"
+        "Russian B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 1/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 30",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii2O.9207a194b6d4f62b09f23e6556e6b2ed.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         }
     },
     "semester_3": {
-        "Fizyka 2": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 30",
-            "\u0106wiczenia laboratoryjne": " 15"
+        "Physics 2": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 30",
+            "Laboratory classes": " 15",
+            "subject_coordinator": [
+                "Magdalena Szczerbowska-Boruchowska"
+            ],
+            "lecturers": [
+                "Magdalena Szczerbowska-Boruchowska"
+            ],
+            "class_code": "EISIS.Ii4P.edc44727dff54a68b2f17716df00b290.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Elementy fizyki wsp\u00f3\u0142czesnej": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 15",
-            "\u0106wiczenia laboratoryjne": " 15"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 15",
+            "Laboratory classes": " 15",
+            "subject_coordinator": [
+                "Jakub Haberko"
+            ],
+            "lecturers": [
+                "Jakub Haberko"
+            ],
+            "class_code": "EISIS.Ii4P.5dfa09837e7c0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Programowanie zaawansowane 1": {
-            "ects": "5.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "class_code": "EISIS.Ii4K.5dfa0983a4135.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Metody numeryczne": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 20",
-            "\u0106wiczenia laboratoryjne": " 20"
+        "Computing Methods": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 20",
+            "Laboratory classes": " 20",
+            "subject_coordinator": [
+                "Janusz Miller"
+            ],
+            "lecturers": [
+                "Janusz Miller",
+                "Filip Kami\u0144ski"
+            ],
+            "class_code": "EISIS.Ii4K.d79188917b04fb6e8312c91d555b5548.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Podstawy sztucznej inteligencji": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Fundamentals of artificial intelligence": {
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Antoni Lig\u0119za"
+            ],
+            "lecturers": [
+                "Grzegorz Nalepa",
+                "Antoni Lig\u0119za",
+                "Weronika T. Adrian",
+                "Mateusz \u015ala\u017cy\u0144ski"
+            ],
+            "class_code": "EISIS.Ii4K.75a5710fb2435659dcd018b30066ef69.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Bazy danych": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Database Systems": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Marcin Szpyrka"
+            ],
+            "lecturers": [
+                "Marcin Szpyrka"
+            ],
+            "class_code": "EISIS.Ii4K.68c21af74bbdb419a5b118007ecce45b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Lingwistyka formalna i automaty": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia audytoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Auditorium classes": " 14",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Dariusz Pa\u0142ka"
+            ],
+            "class_code": "EISIS.Ii4K.906cf1f0524780c5fe095fb6936f84c0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "In\u017cynieria oprogramowania": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 28"
+        "Software Engineering": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Project classes": " 28",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Grzegorz Rogus",
+                "Piotr Szwed",
+                "Wojciech Szmuc"
+            ],
+            "class_code": "EISIS.Ii4K.deb4233dd3285c8a48d14c7651289690.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "J\u0119zyk francuski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 2/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 45"
+        "French B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 2/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 45",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii4O.022ccfa514f05e50192ce87a0bff56b7.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk angielski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 2/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 45"
+        "English B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 2/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 45",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii4O.53db5d5bb3888bb0d3df2be2aca157b1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk hiszpa\u0144ski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 2/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 45"
+        "Spanish B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 2/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 45",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii4O.a7a0e38e103236aa9b214adde0985c59.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk niemiecki B-2 - kurs obowi\u0105zkowy 135 godzin - semestr 2/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 45"
+        "German B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 2/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 45",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii4O.194f7fd6b2f8791bf3f31dfd0a5d917d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk rosyjski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 2/3": {
-            "ects": "-",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Lektorat": " 45"
+        "Russian B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 2/3": {
+            "ects_points": "-",
+            "form_of_verification": "Assessment",
+            "Foreign language classes": " 45",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii4O.1b348d99edf04f5b24411f8925d672c5.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         }
     },
     "semester_4": {
         "Programowanie zaawansowane 2": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Grzegorz Rogus"
+            ],
+            "lecturers": [
+                "Grzegorz Rogus"
+            ],
+            "class_code": "EISIS.Ii8K.5dfa0984cbe8c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Sieci komputerowe": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Computer Networks": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Micha\u0142 Turek"
+            ],
+            "lecturers": [
+                "Micha\u0142 Turek"
+            ],
+            "class_code": "EISIS.Ii8K.1ef4b2aff8c9648e68388438d6afd72a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Teoria kompilacji i kompilatory": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Project classes": " 28",
+            "subject_coordinator": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "lecturers": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "class_code": "EISIS.Ii8K.b56ae68725035a1a525bc0e73bd824be.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Data Engineering": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Sebastian Ernst"
+            ],
+            "lecturers": [
+                "Sebastian Ernst",
+                "Igor Wojnicki"
+            ],
+            "class_code": "EISIS.Ii8K.5dfa09851a120.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory"
         },
-        "Uczenie maszynowe": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Machine learning": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Jakub Porzycki"
+            ],
+            "lecturers": [
+                "Jakub Porzycki"
+            ],
+            "class_code": "EISIS.Ii8K.8ba35fcbc3c124e9725f6bab431a3549.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Modele wytwarzania oprogramowania": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14",
-            "\u0106wiczenia projektowe": " 14"
+        "Model-driven software development": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Grzegorz Rogus",
+                "Piotr Szwed",
+                "Wojciech Szmuc"
+            ],
+            "class_code": "EISIS.Ii8K.5dfa09855023c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "J\u0119zyk francuski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 3/3": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Lektorat": " 60"
+        "French B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 3/3": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Foreign language classes": " 60",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii8O.6807c4d8cf5331d62a78d10b502b9ccb.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk angielski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 3/3": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Lektorat": " 60"
+        "English B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 3/3": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Foreign language classes": " 60",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii8O.5e50e9a2d67b5162c856cf859a9b227f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk hiszpa\u0144ski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 3/3": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Lektorat": " 60"
+        "Spanish B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 3/3": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Foreign language classes": " 60",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii8O.001aefb3b9af1096e2664b81b183c217.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk niemiecki B-2 - kurs obowi\u0105zkowy 135 godzin - semestr 3/3": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Lektorat": " 60"
+        "German B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 3/3": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Foreign language classes": " 60",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii8O.e9248a9a134c74395721cf546e69ecdf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "J\u0119zyk rosyjski B-2 \u2013 kurs obowi\u0105zkowy 135 godzin - semestr 3/3": {
-            "ects": "5.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Lektorat": " 60"
+        "Russian B2 course - compulsory course of 135 hours for students of FIRST-CYCLE studies - semester 3/3": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "Foreign language classes": " 60",
+            "subject_coordinator": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "lecturers": [
+                "Studium J\u0119zyk\u00f3w Obcych"
+            ],
+            "class_code": "EISIS.Ii8O.49d62cc9cd39f7fb09b10f8cfbeb7b06.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         }
     },
     "semester_5": {
         "Studio projektowe 1": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "\u0106wiczenia projektowe": " 42"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Project classes": " 42",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "class_code": "EISIS.Ii10K.fbcc8b7acf487e93e692603d64cdbfdf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Internet rzeczy i inteligentne systemy wbudowane": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 28"
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Project classes": " 28",
+            "subject_coordinator": [
+                "Andrei Karatkevich"
+            ],
+            "lecturers": [
+                "Andrei Karatkevich"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa098678269.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Symulacja system\u00f3w dyskretnych": {
-            "ects": "2.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "2.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw W\u0105s",
+                "Dariusz Pa\u0142ka",
+                "Filip Kami\u0144ski"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa09869f554.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Programowanie aplikacji webowych": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Grzegorz Rogus"
+            ],
+            "lecturers": [
+                "Grzegorz Rogus"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0986c6e44.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Systemy operacyjne": {
-            "ects": "1.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28"
+        "Operating Systems": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski",
+                "Wojciech Szmuc"
+            ],
+            "class_code": "EISIS.Ii10K.b9d40ab367cf3e4a432ef6e87fec8967.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Wybrane problemy teorii graf\u00f3w": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Adam S\u0119dziwy"
+            ],
+            "lecturers": [
+                "Adam S\u0119dziwy"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa09873de2b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Programowanie deklaratywne": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Antoni Lig\u0119za",
+                "Weronika T. Adrian"
+            ],
+            "lecturers": [
+                "Antoni Lig\u0119za",
+                "Weronika T. Adrian",
+                "Mateusz \u015ala\u017cy\u0144ski"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0987654f5.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Design patterns": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Rafa\u0142 Mr\u00f3wka"
+            ],
+            "lecturers": [
+                "Rafa\u0142 Mr\u00f3wka"
+            ],
+            "class_code": "EISIS.Ii10K.af3e56eb3865324f5227fe269af42622.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
         "Introduction to Cybersecurity": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa09879a33e.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
-        "Programowanie systemowe": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Advanced System Programming": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Wojciech Szmuc"
+            ],
+            "lecturers": [
+                "Wojciech Szmuc"
+            ],
+            "class_code": "EISIS.Ii10K.1582016d8e2afdf1846f8470e91ec937.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Praca w kole naukowym 1": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Praca w kole naukowym": " 0"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Participation in a student research club": " 0",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Andrzej Bielecki",
+                "J\u0119drzej Byrski",
+                "Jaros\u0142aw W\u0105s",
+                "Jacek Piwowarczyk"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0987cef9f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Prowadzenie bada\u0144 naukowych 1": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Prace kontrolne i przej\u015bciowe": " 45"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Progress evaluation and interim assignments": " 45",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Leszek Kotulski",
+                "Jaros\u0142aw W\u0105s",
+                "Igor Wojnicki",
+                "Adam S\u0119dziwy",
+                "Marcin Szpyrka",
+                "Antoni Lig\u0119za",
+                "Andrzej Bielecki",
+                "Andrei Karatkevich",
+                "Tomasz Szmuc"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa09880290e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Introduction to Programming Languages": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Weronika T. Adrian",
+                "Krystian Jobczyk"
+            ],
+            "lecturers": [
+                "Mateusz \u015ala\u017cy\u0144ski",
+                "Krystian Jobczyk"
+            ],
+            "class_code": "EISIS.Ii10O.7ee3ddd63be2cc6d2a34f51cf264e288.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
-        "Constraint Programming": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
-        },
-        "Logic Programming": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
-        },
-        "Graphical Programming Languages": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Piotr Maj",
+                "Anna Kozio\u0142"
+            ],
+            "lecturers": [
+                "Piotr Maj",
+                "Anna Kozio\u0142"
+            ],
+            "class_code": "EISIS.Ii10O.6246131d0da95.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
         "Przetwarzanie obraz\u00f3w cyfrowych": {
-            "ects": "3.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 20",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 20",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Marek  Gorgo\u0144"
+            ],
+            "lecturers": [
+                "Marek  Gorgo\u0144",
+                "Tomasz Kryjak"
+            ],
+            "class_code": "EISIS.Ii10K.db86916f1b81f868f4c0f2410389ae41.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Aspekty prawne i organizacja przedsi\u0119biorstwa": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia audytoryjne": " 14"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Auditorium classes": " 14",
+            "subject_coordinator": [
+                "Marta Kraszewska"
+            ],
+            "lecturers": [
+                "Marta Kraszewska"
+            ],
+            "class_code": "EISIS.Ii10K.4920966bf31cfb992cdfa4bccc7f1a05.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Wprowadzenie do sieci neuronowych": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Adrian Horzyk"
+            ],
+            "lecturers": [
+                "Adrian Horzyk"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa09885f97e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Metody podejmowania decyzji": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "Zaj\u0119cia seminaryjne": " 14"
+        "Decision-making methods": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Seminars": " 14",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "class_code": "EISIS.Ii10K.2cab67da1f50137ed4d5ad34a7e68070.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "In\u017cynieria kolektywnej inteligencji": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Tadeusz Szuba"
+            ],
+            "lecturers": [
+                "Tadeusz Szuba"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0988952ef.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Przetwarzanie j\u0119zyka naturalnego w systemach sztucznej inteligencji": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Przetwa\u017canie j\u0119zyka naturalnego w systemach sztucznej inteligencji": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0988bd8e5.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Programowanie genetyczne": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "lecturers": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0988e5594.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Zastosowanie transformacji grafowych w AI": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "Konwersatorium": " 14"
+        "Zastsoswanie transformacji grafowych w AI": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Conversation seminar": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "class_code": "EISIS.Ii10K.5dfa0989199b2.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         }
     },
     "semester_6": {
-        "Praktyka zawodowa": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Praktyka zawodowa": " 0"
+        "Training": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Practical placement": " 0",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "class_code": "EISIS.Ii20O.76139adbadbe7acc0d9652c07ff9d495.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Prawo autorskie i patentowe": {
-            "ects": "1.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 14"
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "subject_coordinator": [
+                "Marcin Huczkowski"
+            ],
+            "lecturers": [
+                "Marcin Huczkowski"
+            ],
+            "class_code": "EISIS.Ii20HS.c779721d0e2c032a5e5a6b251c00ab7b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Teoria Oblicze\u0144": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "O",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia audytoryjne": " 28"
+        "Theory of Computation": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Auditorium classes": " 28",
+            "subject_coordinator": [
+                "Adam S\u0119dziwy"
+            ],
+            "lecturers": [
+                "Adam S\u0119dziwy"
+            ],
+            "class_code": "EISIS.Ii20K.5a8bbed3088ca00961be9c28129ec098.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Projekt zespo\u0142owy in\u017cynierii oprogramowania": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "\u0106wiczenia projektowe": " 28"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Project classes": " 28",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Grzegorz Rogus"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa0989ba96f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
         "Studio projektowe 2": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "\u0106wiczenia projektowe": " 42"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Project classes": " 42",
+            "subject_coordinator": [
+                "Rados\u0142aw Klimek"
+            ],
+            "lecturers": [
+                "Rados\u0142aw Klimek",
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "class_code": "EISIS.Ii20K.d913139bdb793c5fcd2db182e2d8ab23.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "SOA w projektowaniu i implementacji oprogramowania": {
-            "ects": "4.0",
-            "passing_method": "Egzamin",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "SOA in software design ad implementation": {
+            "ects_points": "4.0",
+            "form_of_verification": "Exam",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Skrzy\u0144ski",
+                "Grzegorz Rogus"
+            ],
+            "class_code": "EISIS.Ii20K.a9ae5517e78a5dbbc68e6e8728b84043.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Systemy czasu rzeczywistego": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Szmuc"
+            ],
+            "lecturers": [
+                "Tomasz Szmuc"
+            ],
+            "class_code": "EISIS.Ii20K.a61b4a0bd5bad6b70dbe2b4b418e2b93.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Systemy rekonfigurowalne": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Marek  Gorgo\u0144"
+            ],
+            "lecturers": [
+                "Marek  Gorgo\u0144",
+                "Tomasz Kryjak"
+            ],
+            "class_code": "EISIS.Ii20K.508ed5c394d4c1521008164f32b77d0f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Interfejsy multimodalne": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Jaromir Przyby\u0142o"
+            ],
+            "lecturers": [
+                "Jaromir Przyby\u0142o"
+            ],
+            "class_code": "EISIS.Ii20K.1aa9a220f6ef4c642e7eb07289ddf2e3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Metody i algorytmy optymalizacji": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Mateusz Baran"
+            ],
+            "lecturers": [
+                "Mateusz Baran"
+            ],
+            "class_code": "EISIS.Ii20K.2c0213f7495099f81ebd4178a253f3b3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Praca w kole naukowym 2": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Praca w kole naukowym": " 0"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Participation in a student research club": " 0",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski",
+                "Jaros\u0142aw W\u0105s",
+                "Andrzej Bielecki",
+                "Jacek Piwowarczyk"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098a52c9b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Prowadzenie bada\u0144 naukowych 2": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Prace kontrolne i przej\u015bciowe": " 56"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Progress evaluation and interim assignments": " 56",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s",
+                "Leszek Kotulski",
+                "Marcin Szpyrka",
+                "Antoni Lig\u0119za",
+                "Igor Wojnicki",
+                "Tomasz Szmuc",
+                "Andrzej Bielecki",
+                "Adam S\u0119dziwy",
+                "Andrei Karatkevich"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098a7f10a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Zaawansowane algorytmy wizyjne": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Advanced vision algorithms": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Tomasz Kryjak"
+            ],
+            "class_code": "EISIS.Ii20K.28379a764add155490961a6dd9ff770e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "G\u0142\u0119bokie sieci neuronowe i zaawansowane techniki ich uczenia": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Adrian Horzyk"
+            ],
+            "lecturers": [
+                "Adrian Horzyk"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098acfb9b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Wykrywanie anomali sieciowych z wykorzystaniem uczenia maszynowego": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 10",
-            "\u0106wiczenia projektowe": " 22"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 10",
+            "Project classes": " 22",
+            "subject_coordinator": [
+                "Piotr Cho\u0142da"
+            ],
+            "lecturers": [
+                "Piotr Cho\u0142da"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098b04025.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Inteligencja obliczeniowa w analizie danych cyfrowych": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Mateusz Baran"
+            ],
+            "lecturers": [
+                "Mateusz Baran"
+            ],
+            "class_code": "EISIS.Ii20K.2b8bcbe0a2251596b9555f46527d28ea.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "BigData i uczenie maszynowe": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Szymon Bobek"
+            ],
+            "lecturers": [
+                "Szymon Bobek",
+                "Krzysztof Kluza"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098b3aa35.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Inteligentne Systemy Sterowania": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Witold Byrski"
+            ],
+            "lecturers": [
+                "Witold Byrski"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098b6402c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Inteligentne systemy sensoryczne": {
-            "ects": "4.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 28"
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Project classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Nabag\u0142o"
+            ],
+            "lecturers": [
+                "Tomasz Nabag\u0142o",
+                "Mateusz Baran"
+            ],
+            "class_code": "EISIS.Ii20K.5dfa098b8c96d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         }
     },
     "semester_7": {
         "Pracownia in\u017cynierska dyplomowa": {
-            "ects": "1.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "class_code": "EISIS.Ii40K.a7b1b2bcdaf3797fd8b02e5717759410.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory"
         },
-        "Projekt dyplomowy": {
-            "ects": "15.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "O",
-            "Praca dyplomowa": " 0"
+        "": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Zbigniew Bubli\u0144ski"
+            ],
+            "class_code": "EISIS.Ii40K.5e16ec22073e9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Systemy informatyczne ERP": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Edyta Kucharska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "class_code": "EISIS.Ii40K.8cbe56702d8cc34e8a82cf11ec216c2b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Programowanie urz\u0105dze\u0144 mobilnych": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia laboratoryjne": " 20"
+        "Mobile devices software development": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Laboratory classes": " 20",
+            "subject_coordinator": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "lecturers": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "class_code": "EISIS.Ii40K.5016a02202ec2685c26734f5990f3bf0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Hurtownie danych": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Data warehouses": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "class_code": "EISIS.Ii40K.09c4ddd740b98a20569d85a0f245d54c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Kryptografia": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "\u0106wiczenia projektowe": " 10",
-            "Konwersatorium": " 20"
+        "Cryptography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Project classes": " 10",
+            "Conversation seminar": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Topa"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Topa"
+            ],
+            "class_code": "EISIS.Ii40K.eb79f9b9c0c729d33842dff5303487d6.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Multimedia i transmisje multimedialne": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 28"
+        "Multimedia and Multimedia Broadcasting": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 28",
+            "subject_coordinator": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "lecturers": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "class_code": "EISIS.Ii40K.a79f4adf61aaf1dbdbe0045d3d6a56a1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Praca w kole naukowym 3": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Praca w kole naukowym": " 0"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Participation in a student research club": " 0",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski",
+                "Jaros\u0142aw W\u0105s",
+                "Andrzej Bielecki",
+                "Jacek Piwowarczyk"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098c84e82.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Prowadzenie bada\u0144 naukowych 3": {
-            "ects": "2.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Prace kontrolne i przej\u015bciowe": " 28"
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "Progress evaluation and interim assignments": " 28",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s",
+                "Leszek Kotulski",
+                "Adam S\u0119dziwy",
+                "Igor Wojnicki",
+                "Andrei Karatkevich",
+                "Marcin Szpyrka",
+                "Tomasz Szmuc",
+                "Antoni Lig\u0119za",
+                "Andrzej Bielecki"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098cb063c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
-        "Systemy analizy biznesowej": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 10",
-            "\u0106wiczenia laboratoryjne": " 20",
-            "\u0106wiczenia projektowe": " 10"
-        },
-        "Real-time video processing on heteregenous computing platforms": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 28"
-        },
-        "Constraint Programming": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
-        },
-        "Logic Programming": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Business analysis systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 10",
+            "Laboratory classes": " 20",
+            "Project classes": " 10",
+            "subject_coordinator": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "class_code": "EISIS.Ii40K.18e125f0124df42e1e36fb5b21266237.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Machine Learning in Networking": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 15",
-            "\u0106wiczenia laboratoryjne": " 30",
-            "Zaj\u0119cia seminaryjne": " 15"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 15",
+            "Laboratory classes": " 30",
+            "Seminars": " 15",
+            "subject_coordinator": [
+                "Jaros\u0142aw Bu\u0142at"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw Bu\u0142at",
+                "Piotr Cho\u0142da",
+                "Lucjan Janowski",
+                "Krzysztof Rusek"
+            ],
+            "class_code": "EISIS.Ii40K.21bc7f2b700655873532ef9ab48dd0a3.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
         "Algorytmy inteligentne inspirowane natur\u0105": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 28",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 28",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Bielecki"
+            ],
+            "lecturers": [
+                "Andrzej Bielecki"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098d38069.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Open CV & AI": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "\u0106wiczenia laboratoryjne": " 42"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Laboratory classes": " 42",
+            "subject_coordinator": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "lecturers": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098d613ce.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         },
-        "Cyfrowe znaki wodne i steganografia": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
+        "Digital watermarking and steganography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Piotr Cho\u0142da"
+            ],
+            "lecturers": [
+                "Piotr Cho\u0142da"
+            ],
+            "class_code": "EISIS.Ii40K.0af9b507fbbcea58aab82f6595b336bf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Zastosowania sztucznej inteligencji": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia projektowe": " 14"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Project classes": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098d97558.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective"
         },
         "Smart City": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 14"
-        },
-        "Wbudowane systemy AI": {
-            "ects": "3.0",
-            "passing_method": "Zaliczenie",
-            "mandatory": "W",
-            "Wyk\u0142ad": " 14",
-            "\u0106wiczenia laboratoryjne": " 28"
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "Lecture": " 14",
+            "Laboratory classes": " 14",
+            "subject_coordinator": [
+                "Igor Wojnicki"
+            ],
+            "lecturers": [
+                "Igor Wojnicki"
+            ],
+            "class_code": "EISIS.Ii40K.5dfa098dc08dc.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective"
         }
     }
 }
