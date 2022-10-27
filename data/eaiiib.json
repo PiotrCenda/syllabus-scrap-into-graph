@@ -1,0 +1,4362 @@
+{
+    "Computer Science And Intelligent Systems": {
+        "Pracownia in\u017cynierska dyplomowa": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.a7b1b2bcdaf3797fd8b02e5717759410.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "lecturers": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.5e16f0a93865c.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Systemy informatyczne ERP": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Edyta Kucharska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.8cbe56702d8cc34e8a82cf11ec216c2b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Mobile devices software development": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "lecturers": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5016a02202ec2685c26734f5990f3bf0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Data warehouses": {
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski",
+                "Adam S\u0119dziwy"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.09c4ddd740b98a20569d85a0f245d54c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Cryptography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 10",
+            "conversation_seminar": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Topa"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Topa"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.eb79f9b9c0c729d33842dff5303487d6.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Multimedia and Multimedia Broadcasting": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "lecturers": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.a79f4adf61aaf1dbdbe0045d3d6a56a1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Praca w kole naukowym 3": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski",
+                "Jaros\u0142aw W\u0105s",
+                "Andrzej Bielecki",
+                "Jacek Piwowarczyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098c84e82.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Prowadzenie bada\u0144 naukowych 3": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "progress_evaluation_and_interim_assignments": " 28",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s",
+                "Leszek Kotulski",
+                "Adam S\u0119dziwy",
+                "Igor Wojnicki",
+                "Andrei Karatkevich",
+                "Marcin Szpyrka",
+                "Tomasz Szmuc",
+                "Antoni Lig\u0119za",
+                "Andrzej Bielecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098cb063c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Business analysis systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 20",
+            "project_classes": " 10",
+            "subject_coordinator": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.18e125f0124df42e1e36fb5b21266237.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Machine Learning in Networking": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "laboratory_classes": " 30",
+            "seminars": " 15",
+            "subject_coordinator": [
+                "Jaros\u0142aw Bu\u0142at"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw Bu\u0142at",
+                "Piotr Cho\u0142da",
+                "Lucjan Janowski",
+                "Krzysztof Rusek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.21bc7f2b700655873532ef9ab48dd0a3.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Algorytmy inteligentne inspirowane natur\u0105": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Bielecki"
+            ],
+            "lecturers": [
+                "Andrzej Bielecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d38069.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Open CV & AI": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 42",
+            "subject_coordinator": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "lecturers": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d613ce.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Digital watermarking and steganography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Piotr Cho\u0142da"
+            ],
+            "lecturers": [
+                "Piotr Cho\u0142da"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.0af9b507fbbcea58aab82f6595b336bf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Zastosowania sztucznej inteligencji": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d97558.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Smart City": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Igor Wojnicki"
+            ],
+            "lecturers": [
+                "Igor Wojnicki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098dc08dc.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Diploma Thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Marcin Szpyrka"
+            ],
+            "lecturers": [
+                "Marcin Szpyrka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.606a634ff02e67f1c6a1cff71e8c4223.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Animacja Komputerowa 3D": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 14",
+            "project_classes": " 42",
+            "subject_coordinator": [
+                "Tadeusz Szuba",
+                "J\u0119drzej Byrski"
+            ],
+            "lecturers": [
+                "Tadeusz Szuba"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d30137.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Symulacja inteligentnych zachowa\u0144 t\u0142umu oraz roju obiekt\u00f3w": {
+            "ects_points": "2.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "subject_coordinator": [
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d57c0f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Animacja dynamiki w zjawiskach fizycznych": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d7fa0e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Science Club of Computer Graphics": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 24",
+            "subject_coordinator": [
+                "J\u0119drzej Byrski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.6ef894b2208c23c871f98514f3553ddf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Diploma Seminar": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Maciej Gierdziewicz"
+            ],
+            "lecturers": [
+                "Maciej Gierdziewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.feeb058d552460ce4253d4bc3b66655b.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Ochrona systemo\u0301w informatycznych": {
+            "ects_points": "2.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f61032df.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Przetwarzanie chmurowe": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Maciej Gierdziewicz"
+            ],
+            "lecturers": [
+                "Maciej Gierdziewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f612c20e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Certyfikaty in\u017cynierii oprogramowania": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f6154eed.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Cybersecurity": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.d7f271996482e89a324292d563a9068a.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Advanced Methods in Image Understanding": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "lecturers": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.67a0677a5a3c6bbddc9f3aa94775f56c.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Combinatorics in Computer Science": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Krystian Jobczyk"
+            ],
+            "lecturers": [
+                "Krystian Jobczyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.7d89c2f3f912268ef7ef9cd16138e790.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Programming of PLC-s": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "lecturers": [
+                "Krzysztof Oprz\u0119dkiewicz",
+                "Klaudia Dziedzic"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.2203bae29afe8843d9f8fe3390fbc987.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        }
+    },
+    "Automatics And Robotics": {
+        "Data analysis laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Jerzy Baranowski"
+            ],
+            "lecturers": [
+                "Jerzy Baranowski",
+                "Katarzyna Grobler-D\u0119bska",
+                "Waldemar Bauer"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.0b6543699d7268ad08d4cf9bbe779820.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Robotics laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Janusz Teneta"
+            ],
+            "lecturers": [
+                "Janusz Teneta"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.de7438a539079597d10c269cc9dd9712.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Operational research laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Piotr Kad\u0142uczka"
+            ],
+            "lecturers": [
+                "Piotr Kad\u0142uczka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.6665a7cc0b8f10702e332f7f029e52dd.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Industrial automation laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "lecturers": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.71748ada14d54ce9dcd9e3935fdf76db.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Embedded systems laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "lecturers": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.74f377bc96fd5bf2bb7977324f937d86.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Computer vision laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Tomasz Kryjak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.c0caf5a99e07c8dc042e9ee99afdecf8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Process automation laboratory": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 56",
+            "subject_coordinator": [
+                "Andrzej Tutaj"
+            ],
+            "lecturers": [
+                "Andrzej Tutaj"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.f102e67962416313e5d0bc84c820804d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "": {
+            "ects_points": "15.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "lecturers": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.05f61a878cf5c43ed88caaafcda6c82d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Self-Driving Vehicles": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Marek D\u0142ugosz"
+            ],
+            "lecturers": [
+                "Marek D\u0142ugosz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.3df9cf915d6efad034f819a3eaa97d7d.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Integrated Control Systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "lecturers": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.db88e925a07a99063d33fe5b1a607c07.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Expert systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Andrzej M. Skulimowski"
+            ],
+            "lecturers": [
+                "Andrzej M. Skulimowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.e5bd538051cd7ab1e94235f38af1e8b5.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "My\u015blenie krytyczne. Wsp\u00f3\u0142czesne wyzwania kultury i cywilizacji": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Tadeusz Gadacz"
+            ],
+            "lecturers": [
+                "Tadeusz Gadacz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIIS.IIg100000O.6cacd036d517e42a4c4d826cbecae1d7.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "r",
+            "studies_code": "POGHSIIS"
+        },
+        "Sociology. Selected issues": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Krzysztof Matuszek"
+            ],
+            "lecturers": [
+                "Krzysztof Matuszek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIS.Ig100000O.b20a16299cd3e20152ca878cd4235dc3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "r",
+            "studies_code": "POGHSIS"
+        },
+        "Globalization. New challenges in the contemporary world": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Dariusz Wojakowski"
+            ],
+            "lecturers": [
+                "Dariusz Wojakowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.84c56df07c64bdc8f89783be5fbc11b9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Main Trends of Popular Music": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Magdalena Parus-Jankowska"
+            ],
+            "lecturers": [
+                "Magdalena Parus-Jankowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIIS.IIg300000O.7dfe408dd6d80e234466a01c777b6902.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "r",
+            "studies_code": "POGHSIIS"
+        },
+        "World religions: man and the sacred": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Zbigniew Pasek"
+            ],
+            "lecturers": [
+                "Zbigniew Pasek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIS.Ig200027O.86918feaecddd0177be611bf978da8ef.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "1",
+            "studies_code": "POGHSIS"
+        },
+        "Basis for negotiations": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Agata Maksymowicz"
+            ],
+            "lecturers": [
+                "Agata Maksymowicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIS.Ig300000O.10afa2a142927ea15bcb52f982292342.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "r",
+            "studies_code": "POGHSIS"
+        },
+        "Artificial intelligence and sensory": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Jab\u0142o\u0144ski"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Jab\u0142o\u0144ski",
+                "Jaromir Przyby\u0142o"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.eaa012a9e81f38352ff86589bd42b57f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Protection automation": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Pawe\u0142 Zydro\u0144"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Zydro\u0144"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.fe63fc92cd8beab5cf609e4513ec05c3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Programming of mobile robots": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "\u0141ukasz Wi\u0119ckowski"
+            ],
+            "lecturers": [
+                "\u0141ukasz Wi\u0119ckowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.b1764f75b13987d30907585f8fcf2ca9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Creating applications for simulation and control of discrete processes": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Andrzej M. Skulimowski"
+            ],
+            "lecturers": [
+                "Andrzej M. Skulimowski",
+                "Przemys\u0142aw Pukocz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRS.Ii40O.bbc061ec12b350954405e81e8d6d4c0a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EAiRS"
+        },
+        "Student scientific organization": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Tomasz Kryjak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.cb7bee35278175ef2bdc14ced4a8a1f3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Diploma Seminar": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 28",
+            "subject_coordinator": [
+                "Janusz Teneta"
+            ],
+            "lecturers": [
+                "Janusz Teneta"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.a03c9b0e3dda4747aa772bccddca9d0c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Diploma Thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Jerzy Baranowski"
+            ],
+            "lecturers": [
+                ""
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.0c0fd2fd03975e3476a8cf09016e03f0.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Specialised sources of information": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "conversation_seminar": " 3",
+            "subject_coordinator": [
+                "Danuta Ry\u015b"
+            ],
+            "lecturers": [
+                "Danuta Ry\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.c6357e639e0137cbe74af53b9bcf22b5.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Capstone project II": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Andrzej Tutaj"
+            ],
+            "lecturers": [
+                "Andrzej Tutaj",
+                "Dawid Knapik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.78f892a94b5907ccb57d96c6e37d8ff7.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Cyber-Physical Systems in Manufacturing": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 28",
+            "subject_coordinator": [
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "lecturers": [
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.6b780bdd36781b4165506d3e2795881d.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Cyber-Physical Systems for Power Processing and Smart Grids": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 28",
+            "subject_coordinator": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "lecturers": [
+                "Maciej Chojowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.cea63870529a3f94978e8ad830ab0df3.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Student Science Club": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 42",
+            "subject_coordinator": [
+                "Dawid Knapik"
+            ],
+            "lecturers": [
+                "Dawid Knapik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.2d15934798bf7a981c22e2064e6b4fe5.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Fundamentals of Space Engineering": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Pawe\u0142 Zag\u00f3rski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Zag\u00f3rski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRCSS.IIi4O.5e93286057e1a4b15e33f7378f6c63bc.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRCSS"
+        },
+        "Diploma thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Marek  Gorgo\u0144"
+            ],
+            "lecturers": [
+                "Marek  Gorgo\u0144"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.7e822e74f4a2a6dea60978e677914179.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Przedmiot humanistyczno-spo\u0142eczny 1": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "subject_coordinator": [
+                "Autor Nieznany"
+            ],
+            "lecturers": [
+                "Autor Nieznany"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRISS.IIi4O.f4efaa4c38348aceb417e70b0101a7e4.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRISS"
+        },
+        "Student science club": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Marek D\u0142ugosz"
+            ],
+            "lecturers": [
+                "Marek D\u0142ugosz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.f3a5501e219d0fbd610df2054265a5a8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Laboratorium specjalizacyjne": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 42",
+            "subject_coordinator": [
+                "Jerzy Baranowski"
+            ],
+            "lecturers": [
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRISS.IIi4O.fc81ec75c8a5b598496ab5c69b20c2aa.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRISS"
+        },
+        "Autonomous Systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Andrzej M. Skulimowski"
+            ],
+            "lecturers": [
+                "Andrzej M. Skulimowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRISS.IIi4O.02962bb2079c790f2c24cdbaea433b8a.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRISS"
+        },
+        "Artificial Intelligence and Knowledge Engineering": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Adrian Horzyk"
+            ],
+            "lecturers": [
+                "Adrian Horzyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRISS.IIi4O.f661835225ef4f7d12adc72b118f3cfd.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRISS"
+        },
+        "Cybersecurity": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRISS.IIi4O.d7f271996482e89a324292d563a9068a.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRISS"
+        },
+        "Czyste energie i ochrona \u015brodowiska": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Janusz Teneta"
+            ],
+            "lecturers": [
+                "Janusz Teneta",
+                "\u0141ukasz Wi\u0119ckowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.83ed912f0ab5815fcf9b01feb912c183.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Programming of PLC-s": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "lecturers": [
+                "Krzysztof Oprz\u0119dkiewicz",
+                "Klaudia Dziedzic"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.2203bae29afe8843d9f8fe3390fbc987.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Biometrics": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Tomasz Kryjak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.e060ff94abe572c7cbf93bba724b7e49.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "HLS tools": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 42",
+            "subject_coordinator": [
+                "Tomasz Kryjak"
+            ],
+            "lecturers": [
+                "Marcin Kowalczyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.118923bef8bfe1c321ae2c0203c67e27.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Networked control and industrial communication": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Wojciech Grega"
+            ],
+            "lecturers": [
+                "Wojciech Grega"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.8e958c58229e9364945acabed5094675.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Computational intelligence": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Wojciech Chmiel"
+            ],
+            "lecturers": [
+                "Joanna Kwiecie\u0144",
+                "Wojciech Chmiel",
+                "Piotr Kad\u0142uczka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.2285b4a9ad4471d4e75b8e2fdffaa28e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Electronic systems for medical diagnosis and therapy": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 28",
+            "subject_coordinator": [
+                "Joanna Grabska-Chrz\u0105stowska"
+            ],
+            "lecturers": [
+                "Joanna Grabska-Chrz\u0105stowska",
+                "Tomasz Pi\u0119ciak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRIOS.IIi4O.55157267be3fe3ef322124123df78b3f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRIOS"
+        },
+        "Satellite engineering": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Pawe\u0142 Zag\u00f3rski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Zag\u00f3rski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.8266bb02be0630f72f94534c126aa48a.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Unconventional robotics": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "subject_coordinator": [
+                "Adam Pi\u0142at"
+            ],
+            "lecturers": [
+                "Adam Pi\u0142at"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.04921acac1dcbc4ca6d2aa46de7c4e65.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Mobile System Positioning": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "S\u0142awomir Mikrut"
+            ],
+            "lecturers": [
+                "S\u0142awomir Mikrut"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.23114113870354ee85ae1684135168c3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "Process optimization": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "J\u00f3zef Duda"
+            ],
+            "lecturers": [
+                "J\u00f3zef Duda"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.58780add8e64439f2096b345c2a3b081.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        },
+        "SoC programming": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 28",
+            "subject_coordinator": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "lecturers": [
+                "Krzysztof Ko\u0142ek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EAiRKSS.IIi4O.4f89be9fb9ec04b788a7d822d9a0c404.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EAiRKSS"
+        }
+    },
+    "Biomedical Engineering": {
+        "Diploma Seminar": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Andrzej Izworski"
+            ],
+            "lecturers": [
+                "Andrzej Izworski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.a03c9b0e3dda4747aa772bccddca9d0c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        },
+        "": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Tomasz Stanis\u0142aw Orzechowski"
+            ],
+            "lecturers": [
+                "Tomasz Stanis\u0142aw Orzechowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.9fdf5bbf61282c3b2b3d3bf106b07be1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        },
+        "Data Bases In Biology and Medicine": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Adam Pi\u00f3rkowski"
+            ],
+            "lecturers": [
+                "Adam Pi\u00f3rkowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.6d0886c4b6099b5f558fe3bda1d77e4d.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Bio-measurements": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Janusz Gajda"
+            ],
+            "lecturers": [
+                "Janusz Gajda",
+                "Katarzyna Heryan"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.540781c46d194205c35941649336dbb9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Wprowadzenie do diagnostyki medycznej z u\u017cyciem promieniowania jonizuj\u0105cego": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 18",
+            "laboratory_classes": " 10",
+            "subject_coordinator": [
+                "Aleksandra Jung"
+            ],
+            "lecturers": [
+                "Andrzej Bolewski",
+                "Aleksandra Jung"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.91c4b325e36c0d3154d604002f32ae79.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Nanocz\u0105stki i nanokompozyty w aplikacjach medycznych": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Ewa Stodolak-Zych"
+            ],
+            "lecturers": [
+                "Ewa Stodolak-Zych"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.c9261196d5fe481b48f5eeea8d1aebec.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Wsp\u00f3\u0142czesna biologia": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 28",
+            "subject_coordinator": [
+                "Anna Bodzo\u0144-Ku\u0142akowska"
+            ],
+            "lecturers": [
+                "Anna Bodzo\u0144-Ku\u0142akowska",
+                "Joanna Ner-Kluza",
+                "Kinga Hartman",
+                "Przemys\u0142aw Mielczarek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.c44bdcfe71dd09c37751b0846f8cb70e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Innovative Mobile Applications in Surgery and Medicine 4.0 - From Business Model to Product Introduction": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Mateusz Danio\u0142",
+                "J\u00f3zef Kozak"
+            ],
+            "lecturers": [
+                "Mateusz Danio\u0142",
+                "J\u00f3zef Kozak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.623cd3d024196.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Wprowadzenie do filozofii": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "subject_coordinator": [
+                "Wies\u0142aw Kurpiewski"
+            ],
+            "lecturers": [
+                "Wies\u0142aw Kurpiewski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.Ii40O.551c0b345d1939229e96dc441693b443.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EIBMS"
+        },
+        "Podstawy medycyny regeneracyjnej": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "El\u017cbieta Menaszek"
+            ],
+            "lecturers": [
+                "El\u017cbieta Menaszek",
+                "Micha\u0142 Dziadek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMIBS.IIi4O.d6b86f9a9e7437b224c6b57b5ae57f8e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMIBS"
+        },
+        "Diploma Thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Piotr Augustyniak"
+            ],
+            "lecturers": [
+                "Piotr Augustyniak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.1585231492.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        },
+        "Bioethics": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "conversation_seminar": " 14",
+            "subject_coordinator": [
+                "Katarzyna Cholewa-Kowalska"
+            ],
+            "lecturers": [
+                "Katarzyna Cholewa-Kowalska",
+                "Barbara Szaraniec",
+                "El\u017cbieta Menaszek",
+                "Micha\u0142 Dziadek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMS.IIi4O.65af83ecf48550a78c7edd3af46a7539.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMS"
+        },
+        "Neurochemia i neurofarmakologia": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Anna Bodzo\u0144-Ku\u0142akowska"
+            ],
+            "lecturers": [
+                "Jerzy Silberring",
+                "Anna Bodzo\u0144-Ku\u0142akowska",
+                "Anna Drabik",
+                "Piotr Suder",
+                "Marek Smoluch",
+                "Przemys\u0142aw Mielczarek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMIBS.IIi4O.869e95b49c2f502cb98d359fa9eeb067.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMIBS"
+        },
+        "Surface engineering": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "S\u0142awomir K\u0105c"
+            ],
+            "lecturers": [
+                "Izabela Kalemba-Rec"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMIBS.IIi4O.645168454f95754638b940232c4b13f5.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMIBS"
+        },
+        "Microprocessor control systems": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Waldemar R\u0105czka"
+            ],
+            "lecturers": [
+                "Waldemar R\u0105czka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBRS.IIi4O.132204f87b68f1409fbcf309f6c0dff1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBRS"
+        },
+        "Metody Sztucznej Inteligencji w sterowaniu uk\u0142ad\u00f3w biomechanicznych": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Agata Nawrocka"
+            ],
+            "lecturers": [
+                "Agata Nawrocka",
+                "Marcin Nawrocki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBRS.IIi4O.10e9d0ad0168d883de85c6edf80536a0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBRS"
+        },
+        "Computer Aided Engineering - EPLAN": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Ireneusz Dominik"
+            ],
+            "lecturers": [
+                "Ireneusz Dominik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBRS.IIi4O.3d1d3111db1d8667f7f750c51ddc5e72.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBRS"
+        },
+        "Engineering in computer-aided diagnostics and surgery": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "J\u00f3zef Kozak"
+            ],
+            "lecturers": [
+                "J\u00f3zef Kozak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBRS.IIi4O.e6bf0c75fd7fc28d82efaa6548bb7c9d.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBRS"
+        },
+        "Magnetyczny rezonans j\u0105drowy i jego zastosowanie w badaniach biomedycznych": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Krzysztof K\u0142odowski"
+            ],
+            "lecturers": [
+                "Krzysztof K\u0142odowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBNS.IIi4O.8a5181f577b3098a93a3c1f2a9ea66f4.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBNS"
+        },
+        "Neuroelectronics": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Pawe\u0142 Hottowy"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Hottowy"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBNS.IIi4O.78f2c848bb092784545a132222a2a4ca.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBNS"
+        },
+        "Podstawy in\u017cynierii kom\u00f3rkowej i tkankowej": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "subject_coordinator": [
+                "Justyna Druka\u0142a"
+            ],
+            "lecturers": [
+                "Justyna Druka\u0142a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBNS.IIi4O.4d404ae770b991db84bb0c7fb04b7c5d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBNS"
+        },
+        "Biotechnologiczne wyzwania biofizyki": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Tadeusz Sarna"
+            ],
+            "lecturers": [
+                "Agnieszka Wolnicka-Glubisz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMBNS.IIi4O.2d418c38dbf84521ae60dc0021dd159f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMBNS"
+        },
+        "Introduction to machine learning": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 10",
+            "project_classes": " 10",
+            "subject_coordinator": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "lecturers": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.569e49764800e24c5bd3543dd54e65e8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        },
+        "The availability of electronic information": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 15",
+            "subject_coordinator": [
+                "Grzegorz Rogus"
+            ],
+            "lecturers": [
+                "Grzegorz Rogus"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.94bb2c09a0a4eaec9cd5c06ed963e3a7.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        },
+        "Automatic speech recognition": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Izworski"
+            ],
+            "lecturers": [
+                "Andrzej Izworski",
+                "Tomasz Stanis\u0142aw Orzechowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EIBMEMS.IIi4O.89e2c3262ef42c83157982d2c0c532f4.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EIBMEMS"
+        }
+    },
+    "Computer Science": {
+        "": {
+            "ects_points": "15.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Marek Kisiel-Dorohinicki"
+            ],
+            "lecturers": [
+                "Marek Kisiel-Dorohinicki"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.05f61a878cf5c43ed88caaafcda6c82d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        },
+        "Project 2": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 16",
+            "subject_coordinator": [
+                "Jacek Dajda"
+            ],
+            "lecturers": [
+                "Witold Rakoczy"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.7bf6e013d20aa0cde672e1d35ac09881.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        },
+        "Business analysis systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 20",
+            "project_classes": " 10",
+            "subject_coordinator": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.6f90426dc54116909ba1c002811be047.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Virtual Private Networks": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "S\u0142awomir Zieli\u0144ski"
+            ],
+            "lecturers": [
+                "S\u0142awomir Zieli\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.e639e414e0590383ab11f7de318457e2.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Programming of autonomous mobile robots": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Wojciech Turek"
+            ],
+            "lecturers": [
+                "Wojciech Turek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.82088aee5d51d6a4f822d017c0a3c3f3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Data warehouses": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.09c4ddd740b98a20569d85a0f245d54c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Programowanie reaktywne w j\u0119zyku Scala": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Bartosz Bali\u015b"
+            ],
+            "lecturers": [
+                "Bartosz Bali\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.9bb7e33269fd71094e0b7124a7d653b6.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Systemy i technologie wizualizacji": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Szymon Bobek"
+            ],
+            "lecturers": [
+                ""
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.e1a36a949eb241a21fc543e58e447f64.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "ERP Systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Edyta Kucharska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.e34ee913721d3ea3045c4a5eed37a92a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Protecting personal\u00a0 data in the digital society": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Marcin Golizda-Blizi\u0144ski"
+            ],
+            "lecturers": [
+                "Kamil Pi\u0119tak",
+                "Marcin Golizda-Blizi\u0144ski",
+                "\u0141ukasz Faber"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.81f04b42cb37768821d56306a14c5c40.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Architektura rozwi\u0105za\u0144 chmurowych": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Bartosz Kwolek"
+            ],
+            "lecturers": [
+                "Bartosz Kwolek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.6bbe81d231e46bd042bc9e0c7200765a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Metody rozpoznawania obraz\u00f3w": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Witold Dzwinel"
+            ],
+            "lecturers": [
+                "Witold Dzwinel",
+                "Wojciech Czech",
+                "Rados\u0142aw \u0141azarz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.4eda0a828eeb2b9200188d0771093adb.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "CAD/CAE Systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Maciej Paszy\u0144ski"
+            ],
+            "lecturers": [
+                "Maciej Paszy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFS.Ii40O.c20b2394acd5ef12649e71075140cf5f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EINFS"
+        },
+        "Administration of Computer Systems": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 16",
+            "laboratory_classes": " 16",
+            "subject_coordinator": [
+                "Wojciech Czech"
+            ],
+            "lecturers": [
+                "Wojciech Czech"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.ca3687bbf4594cd4f7ab630c5d79d869.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        },
+        "Python Programming": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 16",
+            "laboratory_classes": " 16",
+            "subject_coordinator": [
+                "Zbigniew Kaleta"
+            ],
+            "lecturers": [
+                "Zbigniew Kaleta"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.5458533dd7e85d04d3a1d00716e53bc3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        },
+        "Wprowadzenie do in\u017cynierii bezpiecze\u0144stwa": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 16",
+            "laboratory_classes": " 16",
+            "subject_coordinator": [
+                "\u0141ukasz Faber"
+            ],
+            "lecturers": [
+                "\u0141ukasz Faber"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.b642b436af1e3ce4e33c5f99ddc3743b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        },
+        "UX aplikacji internetowych": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 16",
+            "project_classes": " 16",
+            "subject_coordinator": [
+                "Bartosz Kwolek"
+            ],
+            "lecturers": [
+                "Bartosz Kwolek"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EINFN.Ii80O.2313c4380a0da54112e0033b6a5a42ef.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "8",
+            "studies_code": "EINFN"
+        }
+    },
+    "Electrotechnics": {
+        "Diploma seminary": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "auditorium_classes": " 18",
+            "subject_coordinator": [
+                "Janusz Gajda"
+            ],
+            "lecturers": [
+                "Janusz Gajda"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.e02e742d5ae6832d45ebd00cb4bc649f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Jako\u015b\u0107 energii elektrycznej": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Hanzelka"
+            ],
+            "lecturers": [
+                "Zbigniew Hanzelka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.05657eaab1fa51c8f5f35b396b75bbbc.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Programowanie w \u015brodowisku LabVIEW": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Piotr Piwowar"
+            ],
+            "lecturers": [
+                "Piotr Piwowar"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.065d26af5e87b371b841fbb038450c60.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Electrical Engineering": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Dybowski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Dybowski",
+                "Micha\u0142 Rad",
+                "Krzysztof Piech",
+                "Jakub W\u00f3jcik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.e5ed2abe4177554750724bc60317bacd.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Elektroenergetyka przemys\u0142owa": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 20",
+            "subject_coordinator": [
+                "Wojciech B\u0105chorek"
+            ],
+            "lecturers": [
+                "Wojciech B\u0105chorek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.251201386e55175d00f4beec01ff289d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Podstawy pomiar\u00f3w i diagnostyki eksploatacyjnej w elektroenergetyce": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Zydro\u0144"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Zydro\u0144",
+                "Maciej Kuniewski",
+                "Micha\u0142 Bonk",
+                "\u0141ukasz Fu\u015bnik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.cc50b10ed68b3128dd53c211dd0e018c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Procesy technologiczne urz\u0105dze\u0144 elektrycznych": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Jakub Furga\u0142"
+            ],
+            "lecturers": [
+                "Jakub Furga\u0142",
+                "Piotr Paj\u0105k",
+                "J\u00f3zef Roehrich"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.52e08d012a79c070115863013f4d1097.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Projektowanie instalacji elektrycznych": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 20",
+            "subject_coordinator": [
+                "Wojciech Kraszewski"
+            ],
+            "lecturers": [
+                "Wojciech Kraszewski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.4f82c1fa0e12c7e86048cfd54f984976.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "AVR microcontrollers in engineering applications": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Miko\u015b"
+            ],
+            "lecturers": [
+                "Zbigniew Miko\u015b",
+                "Grzegorz Hayduk",
+                "Grzegorz Wr\u00f3bel",
+                "Marcin Jachimski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.add7e22c00e013122569464bc6d2c802.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Fundamentals of Electroheat": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Waradzyn"
+            ],
+            "lecturers": [
+                "Zbigniew Waradzyn",
+                "Aleksander Ska\u0142a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.7f0b399b75d2b9e372db7e89efd0837d.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Programmable Logic Controllers": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Roman Dudek"
+            ],
+            "lecturers": [
+                "Roman Dudek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.17bed7adb3e8e12143e8021cb0af1fd1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "": {
+            "ects_points": "15.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Aleksander Kot"
+            ],
+            "lecturers": [
+                "Aleksander Kot"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.05f61a878cf5c43ed88caaafcda6c82d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Modeling of electromagnetic energy converters with professional FEM software": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Tomasz Lerch"
+            ],
+            "lecturers": [
+                "Tomasz Lerch"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40PJO.1584998873.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Elective Modules in Foreign Language",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Projektowanie uk\u0142ad\u00f3w energoelektronicznych - wybrane zagadnienia": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Adam  Penczek"
+            ],
+            "lecturers": [
+                "Adam  Penczek",
+                "Stanis\u0142aw Pir\u00f3g",
+                "Andrzej Mondzik",
+                "Robert Stala"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.52bbcf9e7ed947cacba8548156b44653.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Nowoczesne systemy zasilania \u017ar\u00f3de\u0142 \u015bwiat\u0142a i sterowania o\u015bwietleniem": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Robert Stala"
+            ],
+            "lecturers": [
+                "Robert Stala",
+                "Adam  Penczek",
+                "Andrzej Mondzik",
+                "Maciej Chojowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.829578d95f7e7c0481c691711afe13e4.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "C++ language in control applications": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Miko\u015b"
+            ],
+            "lecturers": [
+                "Zbigniew Miko\u015b",
+                "Marcin  Baszy\u0144ski",
+                "Grzegorz Hayduk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.bb6fa7e76e95aaad719c4bde00079d7f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Komputerowe wspomaganie proces\u00f3w projektowych z wykorzystaniem oprogramowania CAD": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Tomasz Siostrzonek"
+            ],
+            "lecturers": [
+                "Tomasz Siostrzonek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.ce608ea102189b4c5ef687567d03884d.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Przemys\u0142owe rozwi\u0105zania nap\u0119d\u00f3w elektrycznych": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Aleksander Dziadecki"
+            ],
+            "lecturers": [
+                "Aleksander Dziadecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.4916b9c61c0d5efaf42b55f97d47d1ce.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "FPGA and FPAA devices in control systems": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Robert Stala"
+            ],
+            "lecturers": [
+                "Robert Stala",
+                "Marcin  Baszy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.71f156ff2c24f413cfef454b202c63b3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Texas Instruments DSP in automotive \u2013 advanced": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 20",
+            "conversation_seminar": " 28",
+            "subject_coordinator": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "lecturers": [
+                "Marcin  Baszy\u0144ski",
+                "Maciej Chojowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40K.5fa93caf7fa6d.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Python for electrical engineering": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Krzysztof  Chmielowiec"
+            ],
+            "lecturers": [
+                "Krzysztof  Chmielowiec",
+                "Krzysztof Pi\u0105tek",
+                "Szymon Barczentewicz",
+                "Mateusz Dutka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40K.5fa93c1e7703b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Programowanie aplikacji w Qt": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Miros\u0142aw Socha"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Socha"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.b1f91f2b801d9bcfd33f13006feef195.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Cyfrowa technika pomiarowa": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 20",
+            "subject_coordinator": [
+                "Andrzej Bie\u0144"
+            ],
+            "lecturers": [
+                "Andrzej Bie\u0144"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.Ii40O.80bba975edf5e7db851ebb7638e5e3d3.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EELTS"
+        },
+        "Diploma Thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Aleksander Kot"
+            ],
+            "lecturers": [
+                "Aleksander Kot"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEEN.IIi8O.7801cc1d907159c3a2d6969349e849db.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "4",
+            "studies_code": "EELTEEN"
+        },
+        "Scientific circle \"automatyki przemys\u0142owej i automatyki budynk\u00f3w\"": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Jaros\u0142aw Kozik"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw Kozik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.b8ceb684b6358447b749307d74115621.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "LonWorks technology": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Kwasnowski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Kwasnowski",
+                "Grzegorz Hayduk",
+                "Andrzej O\u017cadowicz",
+                "Jakub Grela"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.be296d5fb36c7374a1b0f2095255b1ee.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Systemy SCADA i przemys\u0142owe bazy danych": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Grzegorz Hayduk"
+            ],
+            "lecturers": [
+                "Grzegorz Hayduk",
+                "Grzegorz Wr\u00f3bel"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.49d3eb591cab5000e6b1d0028396dc7b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "Building automation systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Andrzej O\u017cadowicz"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Kwasnowski",
+                "Grzegorz Hayduk",
+                "Andrzej O\u017cadowicz",
+                "Jakub Grela",
+                "Marcin Jachimski",
+                "Grzegorz Wr\u00f3bel",
+                "Zbigniew Miko\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.4c6a085509eba1dd06988c0b77925165.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "Image processing and analysis": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Andrzej Skalski"
+            ],
+            "lecturers": [
+                "Andrzej Skalski",
+                "Miros\u0142aw Socha",
+                "Marek Wodzi\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.01f489d83d7e18f6238975c0192aa0dd.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "Open source software in embedded and measurement systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Wetula"
+            ],
+            "lecturers": [
+                "Andrzej Wetula"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTPTS.IIi4O.9046abd19d831a8645b84fddade6c26c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTPTS"
+        },
+        "Medium and high frequency inverters": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Waradzyn"
+            ],
+            "lecturers": [
+                "Zbigniew Waradzyn",
+                "Aleksander Ska\u0142a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.80e69fa903ba8e2988ce7e32c5489301.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "Programming of industrial controllers according to  IEC1131-3 standard": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Kwasnowski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Kwasnowski",
+                "Marcin Jachimski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.04f7d96e1c4093e0d85ab9a64d35021b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Przekszta\u0142tnikowe nap\u0119dy pr\u0105du przemiennego": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "lecturers": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTAPS.IIi4O.969ff63c5b12d29969d700bfe1d5ca30.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTAPS"
+        },
+        "Computer-based design of power electronic converters": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Robert Stala"
+            ],
+            "lecturers": [
+                "Robert Stala",
+                "Maciej Chojowski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4K.625569506ad31.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "Reliability Engineering in Automotive Applications": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Jan Szybka",
+                "Jan Szybka"
+            ],
+            "lecturers": [
+                "Jan Szybka",
+                "Dariusz W\u0119drychowicz",
+                "Ma\u0142gorzata Heinrich",
+                "Jan Szybka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.3455a29bbef50ba2abe7032dffcdf958.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Optics and lighting systems designing": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Miros\u0142aw Socha"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Socha"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.68898b5ab9607f95011f616f1d0f044e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Vision systems and image processing": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Andrzej Skalski"
+            ],
+            "lecturers": [
+                "Daria Hemmerling",
+                "Adrian Goral",
+                "Andrzej Skalski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.b432f35da24bea5f1f8d279568ca7559.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Measurement of traffic parameters": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Janusz Gajda"
+            ],
+            "lecturers": [
+                "Janusz Gajda",
+                "Ryszard Sroka",
+                "Marek Stencel",
+                "Tadeusz \u017begle\u0144",
+                "Piotr Burnos",
+                "Zbigniew Marsza\u0142ek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.d17d2f807e9462d312d44c6b8bb86d70.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Fundamentals of PCB design using CAD/CAM software": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Krzysztof Kasi\u0144ski"
+            ],
+            "lecturers": [
+                "Krzysztof Kasi\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.cdbaf820a8cbc4f6cc7d3954d79ffd2a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Batteries and Fuel Cells": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Konrad  \u015awierczek"
+            ],
+            "lecturers": [
+                "Konrad  \u015awierczek",
+                "Kun Zheng"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.62842d5e82783ed83b2650455541d83c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Processes and materials for the hydrogen economy": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Wojciech Zaj\u0105c"
+            ],
+            "lecturers": [
+                "Wojciech Zaj\u0105c"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTIES.IIi4O.2c57235656f54dfca548fdcbf28a2565.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTIES"
+        },
+        "Optimization of Electrical Systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Wies\u0142aw Ja\u017cd\u017cy\u0144ski"
+            ],
+            "lecturers": [
+                "Wies\u0142aw Ja\u017cd\u017cy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4O.0c60c85fd44a10d43eb475619273bd17.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "Project Management in Industry": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Schmidt"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Schmidt",
+                "Wojciech Kraszewski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4O.be4fe2a63981e8eeed836f0e880fcd28.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "Energetyka rozproszona i odnawialne \u017ar\u00f3d\u0142a energii": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 20",
+            "subject_coordinator": [
+                "Szczepan Moskwa"
+            ],
+            "lecturers": [
+                "Szczepan Moskwa",
+                "Mariusz Benesz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4O.5e86be609ad56e5445e743b8ed019aa7.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "Eksploatacja w elektroenergetyce": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Jakub Furga\u0142"
+            ],
+            "lecturers": [
+                "Jakub Furga\u0142",
+                "Maciej Kuniewski",
+                "Piotr Paj\u0105k",
+                "J\u00f3zef Roehrich"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4O.dadfe92111932ff6e784cea873d91b17.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "Technika o\u015bwietleniowa": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Szczepan Moskwa"
+            ],
+            "lecturers": [
+                "Wojciech Kraszewski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTEES.IIi4O.cfcd331f53d90ece1ff8b64168a78015.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTEES"
+        },
+        "The energy society. The distributed energy sources and energy storages - the energy clusters.": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Tomasz Siostrzonek",
+                "Edmund Ciesielka"
+            ],
+            "lecturers": [
+                "Tomasz Siostrzonek",
+                "Edmund Ciesielka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTS.IIi4K.5fa93d4653497.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EELTS"
+        },
+        "Wybrane zagadnienia nap\u0119d\u00f3w pr\u0105du przemiennego": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "lecturers": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.79e7f5ae79cea4b66f0a76a24f0e8808.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Local networks in industrial and building automation": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Grzegorz Wr\u00f3bel"
+            ],
+            "lecturers": [
+                "Grzegorz Wr\u00f3bel",
+                "Grzegorz Hayduk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.549043b171191c2d57cb079da0a2aa13.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Laboratorium problemowe": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "lecturers": [
+                "Marcin  Baszy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.cd8f2eab23ca7df7dafb666314866e7e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Electric transportation systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Andrzej Stobiecki"
+            ],
+            "lecturers": [
+                "Andrzej Stobiecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTENS.IIi4O.ac533b1452e62c36d3e8ef7a111ac37f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTENS"
+        },
+        "Telepomiary": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Jerzy Nabielec",
+                "Andrzej Wetula"
+            ],
+            "lecturers": [
+                "Jerzy Nabielec",
+                "Andrzej Wetula"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTPTS.IIi4O.ff31e10ec5df2831e59a36a84b3aa3fb.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTPTS"
+        },
+        "Engineering in diagnostics and computer assisted surgery": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "J\u00f3zef Kozak"
+            ],
+            "lecturers": [
+                "J\u00f3zef Kozak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTPTS.IIi4O.1953b4205cd18b9c861bf3a8da41ac9c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTPTS"
+        },
+        "Diploma Seminar": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "auditorium_classes": " 28",
+            "subject_coordinator": [
+                "Pawe\u0142 Dybowski"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Dybowski",
+                "Micha\u0142 Rad",
+                "Jaros\u0142aw Kozik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.feeb058d552460ce4253d4bc3b66655b.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Selected issues of smart power grids": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 20",
+            "subject_coordinator": [
+                "Andrzej Firlit"
+            ],
+            "lecturers": [
+                "Andrzej Firlit"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.f7c5073354c407fa5df01306ebcb6840.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Scientific circle Smart Grids": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Jaros\u0142aw Kozik"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw Kozik"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.af7d202f075e4043a647e2aa3582c8db.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Supervisory systems (SCADA HMI) and industrial databases": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Grzegorz Hayduk"
+            ],
+            "lecturers": [
+                "Grzegorz Hayduk",
+                "Grzegorz Wr\u00f3bel"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.9d812b60d7c44b00490caad9f3fa05c8.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Distributed generation and renewable energy sources": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 20",
+            "subject_coordinator": [
+                "Mariusz Benesz"
+            ],
+            "lecturers": [
+                "Mariusz Benesz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.4d9c6a42ccf7aff734d5f1e97f4206fa.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Real time operating systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Grzegorz Wr\u00f3bel"
+            ],
+            "lecturers": [
+                "Marcin Jachimski",
+                "Grzegorz Wr\u00f3bel"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi4O.446464007a9f6064bfd42711e60462b1.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Modern microcontrollers in industrial applications": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Zbigniew Miko\u015b"
+            ],
+            "lecturers": [
+                "Zbigniew Miko\u015b",
+                "Marcin Jachimski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTSGS.IIi6O.4ee9650d9051493b35624e2b09c55e0b.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EELTSGS"
+        },
+        "Measurement Systems": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "lecture": " 27",
+            "laboratory_classes": " 18",
+            "subject_coordinator": [
+                "Jerzy Nabielec"
+            ],
+            "lecturers": [
+                "Jerzy Nabielec"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.d557e3288cfbeec380c1c05193d84842.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Measurements and analysis of power quality indicators": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 6",
+            "laboratory_classes": " 12",
+            "subject_coordinator": [
+                "Andrzej Firlit"
+            ],
+            "lecturers": [
+                "Andrzej Firlit"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.a7bf9aeef8449c37ee16d2695cc817e9.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Sterowanie mikrokomputerowe systemami dynamicznymi": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "lecture": " 27",
+            "laboratory_classes": " 15",
+            "subject_coordinator": [
+                "Grzegorz Sieklucki"
+            ],
+            "lecturers": [
+                "Grzegorz Sieklucki",
+                "Stephane Azebaze"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.53499181d0e57b9287493f7ab4197bc9.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Gospodarka elektroenergetyczna": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "lecture": " 24",
+            "laboratory_classes": " 12",
+            "subject_coordinator": [
+                "Rafa\u0142 Tarko"
+            ],
+            "lecturers": [
+                "Rafa\u0142 Tarko",
+                "Jakub Gajdzica"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.cca52ea04ebb836d075efee652215089.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        },
+        "Systemy elektroenergetyczne": {
+            "ects_points": "5.0",
+            "form_of_verification": "Exam",
+            "lecture": " 24",
+            "laboratory_classes": " 15",
+            "subject_coordinator": [
+                "Aleksander Kot"
+            ],
+            "lecturers": [
+                "Janusz Bro\u017cek",
+                "Aleksander Kot"
+            ],
+            "study_level": "Part-time studies",
+            "study_form": "General academic",
+            "class_code": "EELTN.Ii100O.3a9ec4cf3bc6005d3ad662d728d6405a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "9",
+            "studies_code": "EELTN"
+        }
+    },
+    "Industry 4.0 Technologies": {
+        "Final Project": {
+            "ects_points": "15.0",
+            "form_of_verification": "Assessment",
+            "diploma_project": " 0",
+            "subject_coordinator": [
+                "Magdalena Kawalec"
+            ],
+            "lecturers": [
+                "Magdalena Kawalec"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.f29d56545dbb5e5f3d4cafcbf5a1cbdb.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "History of science and technology": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "seminars": " 15",
+            "subject_coordinator": [
+                "Aldona Garbacz-Klempka"
+            ],
+            "lecturers": [
+                "Aldona Garbacz-Klempka",
+                "Marcin Pi\u0119ko\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40HS.61a4c62f71f9e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Humanities and Social Sciences Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "History and art of Krakow": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "seminars": " 15",
+            "subject_coordinator": [
+                "Aldona Garbacz-Klempka"
+            ],
+            "lecturers": [
+                "Aldona Garbacz-Klempka",
+                "Marcin Pi\u0119ko\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40HS.61a4c6303e9a8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Humanities and Social Sciences Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Production management and cost calculation": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Urszula Lelek-Borkowska"
+            ],
+            "lecturers": [
+                "Urszula Lelek-Borkowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40HS.5e2b018931204.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Humanities and Social Sciences Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Human resource management": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Aldona Garbacz-Klempka"
+            ],
+            "lecturers": [
+                "Aldona Garbacz-Klempka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40HS.256e5de36e5126b66135a4bcf11cc0dc.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Humanities and Social Sciences Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "laboratory_classes": " 15",
+            "subject_coordinator": [
+                "Jakub Grela"
+            ],
+            "lecturers": [
+                "Jakub Grela",
+                "Aleksander Ska\u0142a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.61ae73213ed97.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Numerical methods in foundry engineering": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Andriy Burbelko"
+            ],
+            "lecturers": [
+                "Andriy Burbelko",
+                "Daniel Gurgul"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40PJO.51773f7fb840b077be51573c585983ef.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Elective Modules in Foreign Language",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Surface treatment of cast components": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Halina Krawiec"
+            ],
+            "lecturers": [
+                "Halina Krawiec"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40PJO.cc6f3db7f8fd9689624dbcbc424f92d8.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Elective Modules in Foreign Language",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Electrical Energy for Industrial Installations": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "project_classes": " 15",
+            "subject_coordinator": [
+                "Szczepan Moskwa"
+            ],
+            "lecturers": [
+                "Szczepan Moskwa"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.61a4c63343c6e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Students Research Group": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Pawe\u0142 \u017bak"
+            ],
+            "lecturers": [
+                "Pawe\u0142 \u017bak"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.6c2dd2a0521f52b7970d675b80f21b94.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Data analysis laboratory": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 45",
+            "subject_coordinator": [
+                "Nataliia Kashpruk"
+            ],
+            "lecturers": [
+                "Nataliia Kashpruk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.0b6543699d7268ad08d4cf9bbe779820.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Laboratory of material technologies in Industry 4.0": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 45",
+            "subject_coordinator": [
+                "Marcin Pi\u0119ko\u015b"
+            ],
+            "lecturers": [
+                "Marcin Pi\u0119ko\u015b",
+                "Aldona Garbacz-Klempka",
+                "Janusz Kozana"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.61a4c634a4b22.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        },
+        "Computer simulation laboratory": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 45",
+            "subject_coordinator": [
+                "Daniel Gurgul"
+            ],
+            "lecturers": [
+                "Andriy Burbelko",
+                "Beata Gracz",
+                "Grzegorz Piwowarski",
+                "Pawe\u0142 \u017bak",
+                "Jaros\u0142aw Piek\u0142o"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "ETP4S.Ii40S.61a4c6354e56b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Major Modules",
+            "semester": "7",
+            "studies_code": "ETP4S"
+        }
+    },
+    "Microelectronics In Industry And Medicine": {
+        "": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Pawe\u0142 Grybo\u015b"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Grybo\u015b",
+                "Piotr Kmon"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.1585151234.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Diploma Seminar": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 30",
+            "subject_coordinator": [
+                "Pawe\u0142 Grybo\u015b"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Grybo\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.fb4a0ee55b0df9705d993228b2d56175.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Telecommunication technologies": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 28",
+            "subject_coordinator": [
+                "Marek Mi\u015bkowicz"
+            ],
+            "lecturers": [
+                "Marek Mi\u015bkowicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40O.bba0e4ac48b3a5023eb5ccc294e392d8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Introduction to LaTeX typesetting": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Marcin Szpyrka"
+            ],
+            "lecturers": [
+                "Marcin Szpyrka",
+                "Filip Kami\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40O.ad369dd25212abf5cd15a43a878d887f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Reconfigurable systems design methods": {
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Krzysztof Kasi\u0144ski"
+            ],
+            "lecturers": [
+                "Krzysztof Kasi\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40O.10afbad426e5e926eed12d27c9a60b30.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Python Programming": {
+            "ects_points": "4.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Miros\u0142aw \u017bo\u0142\u0105d\u017a"
+            ],
+            "lecturers": [
+                "Miros\u0142aw \u017bo\u0142\u0105d\u017a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40K.d8b06f95d1229144fa47f0727db18d94.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Computer Networks": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Micha\u0142 Turek"
+            ],
+            "lecturers": [
+                "Micha\u0142 Turek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40O.ddf71bd4a5b4ae28ab58253386e78e12.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Testing and measurements of integrated circuits": {
+            "ects_points": "5.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Piotr Maj"
+            ],
+            "lecturers": [
+                "Piotr Maj",
+                "Piotr Kmon"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.Ii40O.b1ba072df9f15b7e84122f23e82313ad.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "7",
+            "studies_code": "EMWTS"
+        },
+        "Diploma thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Robert Szczygie\u0142"
+            ],
+            "lecturers": [
+                "Robert Szczygie\u0142"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.7e822e74f4a2a6dea60978e677914179.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Basis for negotiations": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Agata Maksymowicz"
+            ],
+            "lecturers": [
+                "Agata Maksymowicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIS.Ig300000O.10afa2a142927ea15bcb52f982292342.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "r",
+            "studies_code": "POGHSIS"
+        },
+        "World religions: man and the sacred": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Zbigniew Pasek"
+            ],
+            "lecturers": [
+                "Zbigniew Pasek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "POGHSIS.Ig200027O.86918feaecddd0177be611bf978da8ef.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "1",
+            "studies_code": "POGHSIS"
+        },
+        "Introduction to cryptography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Aleksandra Krzy\u017canowska",
+                "Piotr Kmon"
+            ],
+            "lecturers": [
+                "Aleksandra Krzy\u017canowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.d92e8506a01d1002b79841a5ee706406.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Power electronics components and systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 30",
+            "subject_coordinator": [
+                "Robert Stala"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Zydro\u0144",
+                "Robert Stala"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.bc13e9842d863a320b164197a56b8271.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Research activities": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 45",
+            "seminars": " 15",
+            "subject_coordinator": [
+                "Krzysztof Kasi\u0144ski"
+            ],
+            "lecturers": [
+                "Piotr Maj",
+                "Piotr Kmon",
+                "Miros\u0142aw \u017bo\u0142\u0105d\u017a",
+                "Robert Szczygie\u0142",
+                "Pawe\u0142 Grybo\u015b"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.e050d9fb9f7c6675a9dc33441c399f3a.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        },
+        "Student science club": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Piotr Otfinowski"
+            ],
+            "lecturers": [
+                "Bogus\u0142aw Wi\u015bniewski",
+                "Krzysztof Kasi\u0144ski",
+                "Piotr Kmon",
+                "Piotr Maj",
+                "Miros\u0142aw \u017bo\u0142\u0105d\u017a"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EMWTS.IIi4O.f3a5501e219d0fbd610df2054265a5a8.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "General Modules",
+            "semester": "3",
+            "studies_code": "EMWTS"
+        }
+    }
+}

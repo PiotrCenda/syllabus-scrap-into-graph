@@ -14,10 +14,15 @@ def fetch_additional(class_id: str):
     additional_info = {}
     additional_info["subject_coordinator"] = [x.strip() for x in soup.find("div", {"class": "head-author-right"}).text.strip().split(",")]
     additional_info["lecturers"] = [x.strip() for x in soup.find("div", {"class": "head-teachers-right"}).text.strip().split(",")]
+    additional_info["study_level"] = soup.find_all("div", {"class": "head-body-cell-content"})[4].text.strip()
+    additional_info["study_form"] = soup.find_all("div", {"class": "head-body-cell-content"})[5].text.strip()
     additional_info["class_code"] = soup.find_all("div", {"class": "head-body-cell-content"})[7].text.strip()
     additional_info["lecture_languages"] = soup.find_all("div", {"class": "head-body-cell-content"})[8].text.strip()
     additional_info["mandatory"] = soup.find_all("div", {"class": "head-body-cell-content"})[9].text.strip()
-
+    additional_info["block"] = soup.find_all("div", {"class": "head-body-cell-content"})[10].text.strip()
+    additional_info["semester"] = soup.select('div.table-responsive')[0].select("div")[1].text.strip()[-1]
+    additional_info["studies_code"] = additional_info["class_code"].split(".")[0]
+    
     return additional_info
 
 
@@ -34,7 +39,7 @@ def parse_class(htlm_piece):
         
         for class_type in class_types:
             class_type_name, hours = class_type.split(":")
-            class_dict[class_type_name] = hours
+            class_dict[class_type_name.lower().replace(" ", "_")] = hours
             
         additional_info = fetch_additional(class_id)
         
@@ -54,10 +59,11 @@ def fetch_link(url: str):
     semester_selector = r"syl-grid-tab-content"
     data = soup.find_all("div", {"class": semester_selector})
     
-    isi_data = dict()
+    studies_data = dict()
+    studies_name = " ".join([x.title() for x in soup.find("h1", {"id": "syl-major-name", "class": "col-sm-12"}).text.strip().split()])
     
-    for semester_nr, semester in enumerate(data[1:]):
-        isi_data[f"semester_{semester_nr+1}"] = {}
+    for semester in data[1:]:
+        studies_data[studies_name] = {}
         
         class_selector = r"tbody > tr"
         classes = semester.select(class_selector)
@@ -65,12 +71,12 @@ def fetch_link(url: str):
         for studies_class in classes:
             try: 
                 class_name, class_dict = parse_class(studies_class)
-                isi_data[f"semester_{semester_nr+1}"][class_name] = class_dict
+                studies_data[studies_name][class_name] = class_dict
                 
             except Exception as e:
                 print(f"Ups...\n{e}")
                 
-    return isi_data
+    return studies_data
 
 
 def save_json(data: dict, filename: str):
@@ -80,13 +86,30 @@ def save_json(data: dict, filename: str):
 
     with open(filename, "w") as file:
         file.write(json_obj)
+        
+
+def load_links(filename: str):
+    with open(os.path.join("urls", filename)) as f:
+        urls = [url.strip() for url in f]
+    
+    return urls
 
 
 if __name__ == "__main__":
-    isi_bsc_url = r"https://sylabusy.agh.edu.pl/en/1/2/18/1/4/16/140"
-    data = fetch_link(isi_bsc_url)
-    save_json(data=data, filename="isi_bcs.json")
+    input_file = "urls_eaiiib.txt"
+    output_file = "eaiiib.json"
     
-    isi_ms_url = r"https://sylabusy.agh.edu.pl/en/1/2/18/1/5/16/140"
-    data = fetch_link(isi_ms_url)
-    save_json(data=data, filename="isi_ms.json")
+    urls = load_links(input_file)
+    data = {}
+    
+    for url in urls:
+        studies_data = fetch_link(url)
+        
+        if list(studies_data.keys())[0] not in data.keys():
+            data[list(studies_data.keys())[0]] = studies_data[list(studies_data.keys())[0]]
+        
+        else:
+            for class_name, class_info in studies_data[list(studies_data.keys())[0]].items():
+                data[list(studies_data.keys())[0]][class_name] = class_info
+
+    save_json(data=data, filename=output_file)

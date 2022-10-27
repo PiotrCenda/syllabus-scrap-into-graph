@@ -1,0 +1,601 @@
+{
+    "Computer Science And Intelligent Systems": {
+        "Pracownia in\u017cynierska dyplomowa": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.a7b1b2bcdaf3797fd8b02e5717759410.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "lecturers": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.5e16f0a93865c.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Systemy informatyczne ERP": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Edyta Kucharska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.8cbe56702d8cc34e8a82cf11ec216c2b.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Mobile devices software development": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 20",
+            "subject_coordinator": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "lecturers": [
+                "Sebastian Ernst",
+                "Pawe\u0142 Skrzy\u0144ski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5016a02202ec2685c26734f5990f3bf0.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Data warehouses": {
+            "ects_points": "3.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski",
+                "Adam S\u0119dziwy"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.09c4ddd740b98a20569d85a0f245d54c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Cryptography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "project_classes": " 10",
+            "conversation_seminar": " 20",
+            "subject_coordinator": [
+                "Pawe\u0142 Topa"
+            ],
+            "lecturers": [
+                "Pawe\u0142 Topa"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.eb79f9b9c0c729d33842dff5303487d6.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Multimedia and Multimedia Broadcasting": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 28",
+            "subject_coordinator": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "lecturers": [
+                "Dariusz Pa\u0142ka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.a79f4adf61aaf1dbdbe0045d3d6a56a1.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Praca w kole naukowym 3": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "participation_in_a_student_research_club": " 0",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski",
+                "Jaros\u0142aw W\u0105s",
+                "Andrzej Bielecki",
+                "Jacek Piwowarczyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098c84e82.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Prowadzenie bada\u0144 naukowych 3": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "progress_evaluation_and_interim_assignments": " 28",
+            "subject_coordinator": [
+                "Konrad Ku\u0142akowski"
+            ],
+            "lecturers": [
+                "Konrad Ku\u0142akowski",
+                "Jaros\u0142aw W\u0105s",
+                "Leszek Kotulski",
+                "Adam S\u0119dziwy",
+                "Igor Wojnicki",
+                "Andrei Karatkevich",
+                "Marcin Szpyrka",
+                "Tomasz Szmuc",
+                "Antoni Lig\u0119za",
+                "Andrzej Bielecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098cb063c.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Business analysis systems": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 10",
+            "laboratory_classes": " 20",
+            "project_classes": " 10",
+            "subject_coordinator": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "lecturers": [
+                "Edyta Kucharska",
+                "Katarzyna Grobler-D\u0119bska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.18e125f0124df42e1e36fb5b21266237.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Machine Learning in Networking": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 15",
+            "laboratory_classes": " 30",
+            "seminars": " 15",
+            "subject_coordinator": [
+                "Jaros\u0142aw Bu\u0142at"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw Bu\u0142at",
+                "Piotr Cho\u0142da",
+                "Lucjan Janowski",
+                "Krzysztof Rusek"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.21bc7f2b700655873532ef9ab48dd0a3.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Algorytmy inteligentne inspirowane natur\u0105": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Andrzej Bielecki"
+            ],
+            "lecturers": [
+                "Andrzej Bielecki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d38069.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Open CV & AI": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 42",
+            "subject_coordinator": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "lecturers": [
+                "Zbis\u0142aw Tabor"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d613ce.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Digital watermarking and steganography": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Piotr Cho\u0142da"
+            ],
+            "lecturers": [
+                "Piotr Cho\u0142da"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.0af9b507fbbcea58aab82f6595b336bf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Zastosowania sztucznej inteligencji": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Leszek Kotulski"
+            ],
+            "lecturers": [
+                "Leszek Kotulski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098d97558.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Smart City": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Igor Wojnicki"
+            ],
+            "lecturers": [
+                "Igor Wojnicki"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIS.Ii40K.5dfa098dc08dc.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "7",
+            "studies_code": "EISIS"
+        },
+        "Diploma Thesis": {
+            "ects_points": "20.0",
+            "form_of_verification": "Assessment",
+            "diploma_thesis": " 0",
+            "subject_coordinator": [
+                "Marcin Szpyrka"
+            ],
+            "lecturers": [
+                "Marcin Szpyrka"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.606a634ff02e67f1c6a1cff71e8c4223.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Animacja Komputerowa 3D": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "laboratory_classes": " 14",
+            "project_classes": " 42",
+            "subject_coordinator": [
+                "Tadeusz Szuba",
+                "J\u0119drzej Byrski"
+            ],
+            "lecturers": [
+                "Tadeusz Szuba"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d30137.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Symulacja inteligentnych zachowa\u0144 t\u0142umu oraz roju obiekt\u00f3w": {
+            "ects_points": "2.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "subject_coordinator": [
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "lecturers": [
+                "Jaros\u0142aw W\u0105s"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d57c0f.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Animacja dynamiki w zjawiskach fizycznych": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Miros\u0142aw Gajer"
+            ],
+            "lecturers": [
+                "Miros\u0142aw Gajer"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.5dfa0f5d7fa0e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Science Club of Computer Graphics": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 24",
+            "subject_coordinator": [
+                "J\u0119drzej Byrski"
+            ],
+            "lecturers": [
+                "J\u0119drzej Byrski"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIGSIS.IIi4K.6ef894b2208c23c871f98514f3553ddf.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIGSIS"
+        },
+        "Diploma Seminar": {
+            "ects_points": "1.0",
+            "form_of_verification": "Assessment",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Maciej Gierdziewicz"
+            ],
+            "lecturers": [
+                "Maciej Gierdziewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.feeb058d552460ce4253d4bc3b66655b.22",
+            "lecture_languages": "English",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Ochrona systemo\u0301w informatycznych": {
+            "ects_points": "2.0",
+            "form_of_verification": "Exam",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f61032df.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Przetwarzanie chmurowe": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Maciej Gierdziewicz"
+            ],
+            "lecturers": [
+                "Maciej Gierdziewicz"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f612c20e.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Certyfikaty in\u017cynierii oprogramowania": {
+            "ects_points": "2.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 14",
+            "project_classes": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIIOS.IIi4K.5dfa0f6154eed.22",
+            "lecture_languages": "Polish",
+            "mandatory": "Obligatory",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIIOS"
+        },
+        "Cybersecurity": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Marek Zachara"
+            ],
+            "lecturers": [
+                "Marek Zachara"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.d7f271996482e89a324292d563a9068a.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Advanced Methods in Image Understanding": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "lecturers": [
+                "Joanna Jaworek-Korjakowska"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.67a0677a5a3c6bbddc9f3aa94775f56c.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Combinatorics in Computer Science": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "seminars": " 14",
+            "subject_coordinator": [
+                "Krystian Jobczyk"
+            ],
+            "lecturers": [
+                "Krystian Jobczyk"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.7d89c2f3f912268ef7ef9cd16138e790.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        },
+        "Programming of PLC-s": {
+            "ects_points": "3.0",
+            "form_of_verification": "Assessment",
+            "lecture": " 28",
+            "laboratory_classes": " 14",
+            "subject_coordinator": [
+                "Krzysztof Oprz\u0119dkiewicz"
+            ],
+            "lecturers": [
+                "Krzysztof Oprz\u0119dkiewicz",
+                "Klaudia Dziedzic"
+            ],
+            "study_level": "Full-time studies",
+            "study_form": "General academic",
+            "class_code": "EISIAIDAS.IIi4K.2203bae29afe8843d9f8fe3390fbc987.22",
+            "lecture_languages": "English",
+            "mandatory": "Elective",
+            "block": "Core Modules",
+            "semester": "3",
+            "studies_code": "EISIAIDAS"
+        }
+    }
+}
