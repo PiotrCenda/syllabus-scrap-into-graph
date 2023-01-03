@@ -1,22 +1,11 @@
-// QUERY FOR Field of Study 
-CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/example_datat.json") 
-YIELD value
-UNWIND keys(value) AS key
-UNWIND keys(value[key]) AS subject
-MERGE (m: Major {name: key,
-                 code: value[key][subject].studies_code,
-                 study_from: value[key][subject].study_form,
-                 study_level: value[key][subject].study_level
-                 })
-return m;
-
-
-// QUERY the rest - nodes and relationships
-CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/example_datat.json") 
+CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/isi.json") 
 YIELD value
 UNWIND keys(value) AS key
 UNWIND keys(value[key]) AS subject
 MATCH (m:Major) where m.name = key
+MERGE (l:Lecture {name:"Lecture"})
+MERGE (pc: Project_classes {name:"Project classes"})
+MERGE (lc:Laboratory_classes  {name:"Labolatory classes"})
 MERGE (s: Subject {name: subject, 
                    etcs_point: value[key][subject].ects_points,
                    mandatory: value[key][subject].mandatory,
@@ -30,49 +19,8 @@ foreach(person in value[key][subject].lecturers |
     MERGE (p: Person {name: person}) Merge(s)-[:LECTURED_BY]->(p))
 
 FOREACH ( lec in value[key][subject].lecture |
-MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].lecture }] -> (l: Lecture  {name: "Lecture"}))
-FOREACH ( lec in value[key][subject].project_classes |
-MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].project_classes }] -> (pc: ProjectClasses {name: "Project classes"}))   
+MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].lecture }] -> (l))
 FOREACH ( lec in value[key][subject].laboratory_classes |
-MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].laboratory_classes }] -> (lc: LabolatoryClasses {name: "Labolatory classes"}))     
-
-
-
-// DRAFTS
-CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/example_datat.json") 
-YIELD value
-UNWIND keys(value) AS key
-UNWIND keys(value[key]) AS subject
-MATCH (m:Major) where m.name = key
-MERGE (s: Subject {name: subject, 
-                   etcs_point: value[key][subject].ects_points,
-                   mandatory: value[key][subject].mandatory,
-                   lecture_languages: value[key][subject].lecture_languages,
-                   class_code: value[key][subject].class_code, 
-                   form_of_verification: value[key][subject].form_of_verification })
-MERGE (s) - [:PART_OF{semester:  value[key][subject].semester}] -> (m)
-foreach(person in value[key][subject].subject_coordinator | 
-    MERGE (p: Person {name: person}) Merge(s)-[:COORDINATED_BY]->(p))
-foreach(person in value[key][subject].lecturers | 
-    MERGE (p: Person {name: person}) Merge(s)-[:LECTURED_BY]->(p));
-
-
-CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/example_datat.json") 
-YIELD value
-UNWIND keys(value) AS key
-UNWIND keys(value[key]) AS subject
-MATCH (m:Major) where m.name = key
-MERGE (s: Subject {name: subject, 
-                   etcs_point: value[key][subject].ects_points,
-                   mandatory: value[key][subject].mandatory,
-                   lecture_languages: value[key][subject].lecture_languages,
-                   class_code: value[key][subject].class_code, 
-                   form_of_verification: value[key][subject].form_of_verification })
-MERGE (s) - [:PART_OF{semester:  value[key][subject].semester}] -> (m)
-foreach(person in value[key][subject].subject_coordinator | 
-    MERGE (p: Person {name: person}) Merge(s)-[:COORDINATED_BY]->(p))
-foreach(person in value[key][subject].lecturers | 
-    MERGE (p: Person {name: person}) Merge(s)-[:LECTURED_BY]->(p))
-
-FOREACH ( lec in value[key][subject].lecture |
-MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].lecture }] -> (l: Lecture))   
+MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].laboratory_classes }] -> (lc))
+FOREACH ( lec in value[key][subject].project_classes |
+MERGE (s) - [:INCLUDES{number_of_hours:value[key][subject].project_classes }] -> (pc))
