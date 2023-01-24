@@ -1,4 +1,4 @@
-CALL apoc.load.json("/Users/julia/.Neo4jDesktop/relate-data/dbmss/dbms-26cf31a1-5d8f-4c11-87cf-101a59cd96a8/import/isi.json") 
+CALL apoc.load.json("file:///isi.json") 
 YIELD value
 UNWIND keys(value) AS key
 UNWIND keys(value[key]) AS subject

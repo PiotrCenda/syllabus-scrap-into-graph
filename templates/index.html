@@ -1,0 +1,22 @@
+<doctype html="">
+    <title>Syllabus Database</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+<h2>Syllabus Database</h2>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class="flashes">
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+{% from "_formhelpers.html" import render_field %}
+<form method="post">
+  <dl>
+    <p>
+    {{ render_field(form.search) }}
+  </p></dl>
+  <p><input type="submit" value="Search">
+</p></form>
+</doctype>
