@@ -2,6 +2,7 @@
     <title>Syllabus Database</title>
         <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 <h2>Syllabus Database</h2>
+<div>
 {% with messages = get_flashed_messages() %}
   {% if messages %}
     <ul class="flashes">
@@ -12,11 +13,13 @@
   {% endif %}
 {% endwith %}
 {% from "_formhelpers.html" import render_field %}
-<form method="post">
+<form method="post" style="text-align:center">
   <dl>
     <p>
+      Enter phrase you are looking for:
     {{ render_field(form.search) }}
   </p></dl>
   <p><input type="submit" value="Search">
 </p></form>
+</div>
 </doctype>

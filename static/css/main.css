@@ -27,6 +27,9 @@ table {
     overflow: hidden; 
     text-overflow: ellipsis; 
     word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    width: '50%'
 }
 table.center {
     margin-left: auto;
@@ -64,3 +67,4 @@ td:nth-child(1) {
 td:nth-child(2) {  
   vertical-align: text-right;
 }
+
